@@ -13,7 +13,7 @@
 /img_bot*
 /img_me*
 /notification.mp3
-
+run.sh
 .chroma
 .DS_Store
 .eslintrc.js
