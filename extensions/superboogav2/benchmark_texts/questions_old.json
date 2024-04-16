@@ -1,6 +1,6 @@
 [
     {
-        "text": "extensions/superboogav2/benchmark_texts/All.txt",
+        "text": "extensions/superboogav2/benchmark_texts/aircraft_lease.txt",
         "questions": [
             {
                 "question_variants": [
