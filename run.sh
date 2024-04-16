@@ -1,1 +1,0 @@
-ALLOW_RESET=TRUE HF_TOKEN=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 WANDB_MODE=online ./start_linux.sh --listen --api --api-key 123456 --public-api --character Assistant --model meta-llama/Llama-2-13b-chat-hf --verbose --gradio-auth sysadmin:Maxell0622
