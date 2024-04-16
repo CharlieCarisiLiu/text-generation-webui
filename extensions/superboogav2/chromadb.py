@@ -338,7 +338,7 @@ class ChromaCollector():
             self.chroma_client.reset()
 
             self.ids = []
-            self.chroma_client.delete_collection(name=self.name)
+            #self.chroma_client.delete_collection(name=self.name)
             self.collection = self.chroma_client.create_collection(name=self.name, embedding_function=embedder)
 
             logger.info('Successfully cleared all records and reset chromaDB.')

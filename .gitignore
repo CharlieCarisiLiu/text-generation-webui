@@ -1,14 +1,9 @@
 /cache
-/characters
 /css
-/extensions
 /grammars
 /installer_files
 /logs
-/loras
-/models
-/presets
-/prompts
+/models/meta-llama_Llama-2-13b-chat-hf
 /repositories
 /softprompts
 /torch-dumps
@@ -17,10 +12,7 @@
 /CMD_FLAGS.txt
 /img_bot*
 /img_me*
-/models/config-user.yaml
 /notification.mp3
-/settings*.json
-/settings*.yaml
 
 .chroma
 .DS_Store

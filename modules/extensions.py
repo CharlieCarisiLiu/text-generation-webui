@@ -108,6 +108,15 @@ def _apply_custom_generate_chat_prompt(text, state, **kwargs):
 
     return None
 
+'''def _apply_custom_generate_chat_prompt(text, state, **kwargs):
+    custom_generated_chat_prompt = ""
+    for extension, _ in iterator():
+        if hasattr(extension, 'custom_generate_chat_prompt'):
+            if(custom_generated_chat_prompt!=""):
+                custom_generated_chat_prompt = extension.custom_generate_chat_prompt(custom_generated_chat_prompt, state, **kwargs)
+            else:
+                custom_generated_chat_prompt = extension.custom_generate_chat_prompt(text, state, **kwargs)
+    return custom_generated_chat_prompt'''
 
 # Extension that modifies the input parameters before they are used
 def _apply_state_modifier_extensions(state):

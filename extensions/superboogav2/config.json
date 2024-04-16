@@ -127,10 +127,10 @@
       "default": "\n\n<<document end>>\n\n"
     },
     "manual": {
-      "default": true
+      "default": false
     },
     "add_chat_to_data": {
-      "default": true
+      "default": false
     },
     "injection_strategy": {
       "default": "PREPEND_TO_LAST",

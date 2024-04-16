@@ -1,0 +1,36 @@
+mode: chat-instruct
+prompt-default: 3levels
+preset: LLaMA-Precise
+truncation_length: 4096
+custom_system_message: You are an ITSM professional and tasked to answer some question from students in the ITSM field. You must stay with in the context of Integrated IT Business Management material.
+instruction_template_str: '{% if messages[0][''role''] == ''system'' %}{% set loop_messages = messages[1:] %}{% set system_message = messages[0][''content''] %}{% else %}{% set loop_messages = messages %}{% set system_message = false %}{% endif %}{% for message in loop_messages %}{% if (message[''role''] == ''user'') != (loop.index0 % 2 == 0) %}{{ '''' }}{% endif %}{% if loop.index0 == 0 and system_message != false %}{% set content = ''<<SYS>>\n'' + system_message + ''\n<</SYS>>\n\n'' + message[''content''] %}{% else %}{% set content = message[''content''] %}{% endif %}{% if message[''role''] == ''user'' %}{{ ''<s>'' + ''[INST] '' + content.strip() + '' [/INST]'' }}{% elif message[''role''] == ''assistant'' %}{{ '' ''  + content.strip() + '' '' + ''</s>'' }}{% endif %}{% endfor %}'
+chat_template_str: |-
+  {%- set ns = namespace(found=false) -%}
+  {%- for message in messages -%}
+      {%- if message['role'] == 'system' -%}
+          {%- set ns.found = true -%}
+      {%- endif -%}
+  {%- endfor -%}
+  {%- if not ns.found -%}
+      {{- '[INST] <<SYS>>\n' + 'You are an ITSM professional and tasked to answer some question from students in the ITSM field. You must stay with in the context of Integrated IT Business Management material.' + '\n <|injection-point|> \n<</SYS>>\n\n' -}}
+  {%- endif %}
+  {%- for message in messages %}
+      {%- if message['role'] == 'system' -%}
+          {{- '[INST] <<SYS>>\n' + message['content'] + '\n <|injection-point|> \n<</SYS>>\n\n' -}}
+      {%- else -%}
+          {%- if message['role'] == 'user' -%}
+              {{-'<|begin-user-input|>' + message['content'] + '<|end-user-input|>[/INST] '-}}
+          {%- else -%}
+              {{-'' + message['content'] + ' </s><s>[INST] ' -}}
+          {%- endif -%}
+      {%- endif -%}
+  {%- endfor -%}
+  {%- if add_generation_prompt -%}
+      {{-''-}}
+  {%- endif -%}
+chat-instruct_command: |-
+  You are an ITSM professional and tasked to answer some question from students in the ITSM field. You must stay with in the context of Integrated IT Business Management material.
+  <|prompt|>
+default_extensions:
+- superboogav2
+- openai

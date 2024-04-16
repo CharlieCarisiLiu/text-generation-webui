@@ -1,0 +1,24 @@
+instruction_template: |-
+  {%- set ns = namespace(found=false) -%}
+  {%- for message in messages -%}
+      {%- if message['role'] == 'system' -%}
+          {%- set ns.found = true -%}
+      {%- endif -%}
+  {%- endfor -%}
+  {%- if not ns.found -%}
+      {{- '[INST] <<SYS>>\n' + 'You are an ITSM professional and tasked to answer some question from students in the ITSM field. You must stay with in the context of Integrated IT Business Management material. \n <|injection-point|>' + '\n<</SYS>>\n\n' -}}
+  {%- endif %}
+  {%- for message in messages %}
+      {%- if message['role'] == 'system' -%}
+          {{- '[INST] <<SYS>>\n' + message['content'] + '\n <|injection-point|> \n<</SYS>>\n\n' -}}
+      {%- else -%}
+          {%- if message['role'] == 'user' -%}
+              {{-'<|begin-user-input|>' + message['content'] + '<|end-user-input|> [/INST] '-}}
+          {%- else -%}
+              {{-'' + message['content'] + ' </s><s>[INST] ' -}}
+          {%- endif -%}
+      {%- endif -%}
+  {%- endfor -%}
+  {%- if add_generation_prompt -%}
+      {{-''-}}
+  {%- endif -%}

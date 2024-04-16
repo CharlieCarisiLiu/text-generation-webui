@@ -165,7 +165,7 @@
 .*godzilla:
   instruction_template: 'Alpaca'
 .*llama(-?)(2|v2).*chat:
-  instruction_template: 'Llama-v2'
+  instruction_template: 'ITSM-LLAMA-RAG'
 .*newhope:
   instruction_template: 'NewHope'
 .*stablebeluga2:

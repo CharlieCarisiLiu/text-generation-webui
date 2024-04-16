@@ -21,6 +21,8 @@ from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from num2words import num2words
 
+import pytextrank
+
 
 class TextPreprocessorBuilder:
     # Define class variables as None initially
@@ -156,6 +158,7 @@ class TextSummarizer:
     def _load_nlp_pipeline():
         # Lazy-load it.
         if TextSummarizer._nlp_pipeline is None:
+            spacy.prefer_gpu()
             TextSummarizer._nlp_pipeline = spacy.load('en_core_web_sm')
             TextSummarizer._nlp_pipeline.add_pipe("textrank", last=True)
         return TextSummarizer._nlp_pipeline
@@ -179,6 +182,7 @@ class TextSummarizer:
 
         nlp_pipeline = TextSummarizer._load_nlp_pipeline()
         doc = nlp_pipeline(text)
+        #doc.set_extension('phrases', default={}, force=True)
 
         num_sent = len(list(doc.sents))
         result = []
