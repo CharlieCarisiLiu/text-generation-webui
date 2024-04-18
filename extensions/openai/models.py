@@ -24,7 +24,7 @@ def list_dummy_models():
     }
 
     # these are expected by so much, so include some here as a dummy
-    for model in ['meta-llama_Llama-2-13b-chat-hf','gpt-3.5-turbo', 'text-embedding-ada-002']:
+    for model in ['meta-llama_Llama-2-13b-chat-hf','meta-llama_Llama-2-70b-chat-hf']:
         result["data"].append(model_info_dict(model))
 
     return result
