@@ -451,17 +451,18 @@ def chat_bot_common(body: dict, is_legacy: bool = False, stream=False) -> dict:
     cmpl_id = "chatcmpl-%d" % (int(time.time() * 1000000000))
     resp_list = 'data' if is_legacy else 'choices'
     
+    body['character'] = "Pinky"
+    body['bot_name'] = "Pinky"
+    body['instruction_template'] = "ITSM-LLAMA-RAG"
+    
+    body['preset'] = "LLaMA-Precise"
 
     # generation parameters
     generate_params = process_parameters(body, is_legacy=is_legacy)
     continue_ = body['continue_']
 
-    body['character'] = "Pinky"
-    body['bot_name'] = "Pinky"
-    body['instruction_template'] = "ITSM-LLAMA-RAG"
     generate_params['max_new_tokens'] = 512
     generate_params['auto_max_new_tokens'] = True
-    body['preset'] = "LLaMA-Precise"
 
     #logger.debug(f'body of body: \n {body} ')
 
