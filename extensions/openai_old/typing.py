@@ -109,51 +109,11 @@ class ChatCompletionRequestParams(BaseModel):
     chat_instruct_command: str | None = None
 
     continue_: bool = Field(default=False, description="Makes the last bot message in the history be continued instead of starting a new message.")
-    
-class ChatbotRequestParams(BaseModel):
-    messages: List[dict] | None = None
-    model: str | None = Field(default=None, description="Unused parameter. To change the model, use the /v1/internal/model/load endpoint.")
-    frequency_penalty: float | None = 0
-    function_call: str | dict | None = Field(default=None, description="Unused parameter.")
-    functions: List[dict] | None = Field(default=None, description="Unused parameter.")
-    logit_bias: dict | None = None
-    max_tokens: int | None = None
-    n: int | None = Field(default=1, description="Unused parameter.")
-    presence_penalty: float | None = 0
-    stop: str | List[str] | None = None
-    stream: bool | None = False
-    temperature: float | None = 1
-    top_p: float | None = 1
-    user: str | None = Field(default=None, description="Unused parameter.")
-
-    mode: str = Field(default='instruct', description="Valid options: instruct, chat, chat-instruct.")
-
-    instruction_template: str | None = Field(default=None, description="An instruction template defined under text-generation-webui/instruction-templates. If not set, the correct template will be automatically obtained from the model metadata.")
-    instruction_template_str: str | None = Field(default=None, description="A Jinja2 instruction template. If set, will take precedence over everything else.")
-
-    character: str | None = Field(default=None, description="A character defined under text-generation-webui/characters. If not set, the default \"Assistant\" character will be used.")
-    bot_name: str | None = Field(default=None, description="Overwrites the value set by character field.", alias="name2")
-    context: str | None = Field(default=None, description="Overwrites the value set by character field.")
-    greeting: str | None = Field(default=None, description="Overwrites the value set by character field.")
-    user_name: str | None = Field(default=None, description="Your name (the user). By default, it's \"You\".", alias="name1")
-    user_bio: str | None = Field(default=None, description="The user description/personality.")
-    chat_template_str: str | None = Field(default=None, description="Jinja2 template for chat.")
-
-    chat_instruct_command: str | None = None
-
-    continue_: bool = Field(default=False, description="Makes the last bot message in the history be continued instead of starting a new message.")
-    content_type : str | None = Field(default='text')
-    content : str
-    message_type : str | None = None
-    conversation: dict
-    event : str
 
 
 class ChatCompletionRequest(GenerationOptions, ChatCompletionRequestParams):
     pass
 
-class ChatbotRequest(GenerationOptions, ChatbotRequestParams):
-    pass
 
 class ChatCompletionResponse(BaseModel):
     id: str

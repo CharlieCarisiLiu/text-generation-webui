@@ -8,7 +8,7 @@
 /softprompts
 /torch-dumps
 /training/datasets
-
+/loras
 /CMD_FLAGS.txt
 /img_bot*
 /img_me*
@@ -40,3 +40,5 @@ wandb
 /docker-compose.yml
 /Dockerfile
 .env
+best_params.json
+/chroma

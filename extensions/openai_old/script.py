@@ -31,7 +31,6 @@ from modules.text_generation import stop_everything_event
 from .typing import (
     ChatCompletionRequest,
     ChatCompletionResponse,
-    ChatbotRequest,
     CompletionRequest,
     CompletionResponse,
     DecodeRequest,
@@ -51,14 +50,11 @@ from .typing import (
     to_dict
 )
 
-import requests
-
-
 params = {
     'embedding_device': 'cpu',
     'embedding_model': 'sentence-transformers/all-mpnet-base-v2',
     'sd_webui_url': '',
-    'debug': 1
+    'debug': 0
 }
 
 
@@ -66,7 +62,6 @@ streaming_semaphore = asyncio.Semaphore(1)
 
 
 def verify_api_key(authorization: str = Header(None)) -> None:
-    logger.debug(f'Authorization String: \n {authorization} ')
     expected_api_key = shared.args.api_key
     if expected_api_key and (authorization is None or authorization != f"Bearer {expected_api_key}"):
         raise HTTPException(status_code=401, detail="Unauthorized")
@@ -143,32 +138,6 @@ async def openai_chat_completions(request: Request, request_data: ChatCompletion
     else:
         response = OAIcompletions.chat_completions(to_dict(request_data), is_legacy=is_legacy)
         return JSONResponse(response)
-
-@app.post('/v1/chatbot')
-async def openai_chat_completions(request: Request, request_data: ChatbotRequest):
-    path = request.url.path
-    is_legacy = "/generate" in path
-    
-    logger.debug(f'body of request: \n {request_data} ')
-    body = to_dict(request_data)
-    if body['event'] != "message_created":
-        return JSONResponse(content="OK")
-
-    conversation = body["conversation"]['id']
-
-    def call_api(response,conversation):
-        URL = f"https://chatwoot.it.pinkelephant.com/api/v1/accounts/2/conversations/{conversation}/messages"
-
-        headers = {"Content-Type": "application/json; charset=utf-8",
-                   "api_access_token":"VWJDMU387bYMj7jZnBsKvvcz"}
-        
-        r = requests.post(URL, headers=headers, json=response)
-        return r
-
-    response = OAIcompletions.chat_bot(body, is_legacy=is_legacy)
-    result = call_api(response,conversation)
-    return JSONResponse(content="OK")
-
 
 
 @app.get("/v1/models", dependencies=check_key)

@@ -26,9 +26,13 @@ def _remove_tag_if_necessary(user_input: str):
     return re.sub(r'^\s*!c\s*|\s*!c\s*$', '', user_input)
 
 
-def _should_query(input: str):
+def _should_query(input: str, state: dict):
+    
     if not parameters.get_is_manual():
-        return True
+        if state['instruction_template'] == 'Llama-v2':
+            return False
+        else:
+            return True
 
     if re.search(r'^\s*!c|!c\s*$', input, re.MULTILINE):
         return True
@@ -100,6 +104,8 @@ def _hijack_last(context_text: str, history: dict, max_len: int, state: dict):
 
 
 def custom_generate_chat_prompt_internal(user_input: str, state: dict, collector: ChromaCollector, **kwargs):
+    logger.debug(f'body of state: \n {state} ')
+    logger.debug(f'body of kwargs: \n {kwargs} ')
     if parameters.get_add_chat_to_data():
         # Get the whole history as one string
         history_as_text = _concatinate_history(kwargs['history'], state)
@@ -110,7 +116,7 @@ def custom_generate_chat_prompt_internal(user_input: str, state: dict, collector
             # Insert the processed history
             process_and_add_to_collector(history_as_text, collector, False, CHAT_METADATA)
 
-    if _should_query(user_input):
+    if _should_query(user_input,state):
         user_input = _remove_tag_if_necessary(user_input)
         results = collector.get_sorted_by_dist(user_input, n_results=parameters.get_chunk_count(), max_token_count=int(parameters.get_max_token_count()))
 

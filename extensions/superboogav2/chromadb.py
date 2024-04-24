@@ -78,9 +78,11 @@ class Info:
 class ChromaCollector():
     def __init__(self):
         name = ''.join(random.choice('ab') for _ in range(10))
-
+        #name = "ALL"
         self.name = name
         self.chroma_client = chromadb.Client(Settings(anonymized_telemetry=False))
+        #self.chroma_client = chromadb.Client(Settings(anonymized_telemetry=False,is_persistent=True))
+        #self.collection = self.chroma_client.get_or_create_collection(name=name, embedding_function=embedder)
         self.collection = self.chroma_client.create_collection(name=name, embedding_function=embedder)
 
         self.ids = []

@@ -6,7 +6,7 @@ instruction_template: |-
       {%- endif -%}
   {%- endfor -%}
   {%- if not ns.found -%}
-      {{- '[INST] <<SYS>>\n' + 'Answer the questions.' + '\n<</SYS>>\n\n' -}}
+      {{- '[INST] <<SYS>>\n' + '' + '\n<</SYS>>\n\n' -}}
   {%- endif %}
   {%- for message in messages %}
       {%- if message['role'] == 'system' -%}
@@ -22,4 +22,3 @@ instruction_template: |-
   {%- if add_generation_prompt -%}
       {{-''-}}
   {%- endif -%}
-
