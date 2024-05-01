@@ -133,7 +133,7 @@
       "default": false
     },
     "injection_strategy": {
-      "default": "PREPEND_TO_LAST",
+      "default": "HIJACK_LAST_IN_CONTEXT",
       "categories": ["PREPEND_TO_LAST", "APPEND_TO_LAST", "HIJACK_LAST_IN_CONTEXT"]
     },
     "chunk_regex": {

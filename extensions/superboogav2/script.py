@@ -240,7 +240,7 @@ def ui():
                 update_url = gr.Button('Load data')
 
             with gr.Tab("File input"):
-                file_input = gr.File(label='Input file', type='binary')
+                file_input = gr.File(value='/home/sysadmin/text-generation-webui/extensions/superboogav2/benchmark_texts/All.txt', label='Input file', type='binary')
                 update_file = gr.Button('Load data')
 
             with gr.Tab("Settings"):

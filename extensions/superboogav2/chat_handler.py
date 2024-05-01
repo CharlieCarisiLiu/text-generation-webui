@@ -102,8 +102,14 @@ def _hijack_last(context_text: str, history: dict, max_len: int, state: dict):
         i, j = replace_position
         history['internal'][-i - 1][-j - 1] = context_text
 
+def _hijack_sysprompt(context_text: str, state: dict):
+    #state['instruction_template_str'] = state['instruction_template_str'].replace('<|injection-point|>', context_text)
+    state['custom_system_message'] = state['context'] + "\n\n Please consider these context:\n" + context_text
+
+
 
 def custom_generate_chat_prompt_internal(user_input: str, state: dict, collector: ChromaCollector, **kwargs):
+    logger.debug(f'body of user_input: \n {user_input} ')
     logger.debug(f'body of state: \n {state} ')
     logger.debug(f'body of kwargs: \n {kwargs} ')
     if parameters.get_add_chat_to_data():
@@ -126,6 +132,7 @@ def custom_generate_chat_prompt_internal(user_input: str, state: dict, collector
         elif parameters.get_injection_strategy() == parameters.PREPEND_TO_LAST:
             user_input = create_context_text(results) + user_input
         elif parameters.get_injection_strategy() == parameters.HIJACK_LAST_IN_CONTEXT:
-            _hijack_last(create_context_text(results), kwargs['history'], state['truncation_length'], state)
+            #_hijack_sysprompt(create_context_text(results), kwargs['history'], state['truncation_length'], state)
+            _hijack_sysprompt(create_context_text(results), state)
 
     return chat.generate_chat_prompt(user_input, state, **kwargs)
