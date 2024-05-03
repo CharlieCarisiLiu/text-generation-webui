@@ -12,7 +12,7 @@ meta-llama_Llama-2-13b-chat-hf$:
   load_in_4bit: true
   compute_dtype: float16
   quant_type: nf4
-  use_double_quant: true
+  use_double_quant: false
   disable_exllama: false
   disable_exllamav2: false
   compress_pos_emb: 1
@@ -34,7 +34,7 @@ meta-llama_Llama-2-70b-chat-hf$:
   load_in_4bit: true
   compute_dtype: float16
   quant_type: nf4
-  use_double_quant: true
+  use_double_quant: false
   disable_exllama: false
   disable_exllamav2: false
   compress_pos_emb: 1
