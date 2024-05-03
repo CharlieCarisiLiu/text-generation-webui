@@ -1,9 +1,12 @@
 import base64
 import copy
+import json
 import re
 import time
 from collections import deque
 from io import BytesIO
+import mysql.connector
+from mysql.connector import errorcode
 
 import requests
 import tiktoken
@@ -414,6 +417,61 @@ def chat_completions_common(body: dict, is_legacy: bool = False, stream=False) -
         yield resp
 
 
+def exchange_conversation(act: str, message_id: int,data: str, row: str = None) -> dict:
+    try:
+        cnx = mysql.connector.connect(user="llama", password="llama", host="localhost", port=3306, database="llama", ssl_disabled=False, autocommit = True)
+    except mysql.connector.Error as err:
+        if err.errno == errorcode.ER_ACCESS_DENIED_ERROR:
+            raise InvalidRequestError(message="Internal Error, username or password.", param='mysql')
+        elif err.errno == errorcode.ER_BAD_DB_ERROR:
+            raise InvalidRequestError(message="Internal Error, DB not exit.", param='mysql')
+        else:
+            print(err)
+    else:
+        db = cnx.cursor()
+        if (act == 'input'):
+            add_input = ("INSERT INTO conversations "
+               "(message_id, input, row) "
+               "VALUES (%s, %s, %s)")
+            data_input = (message_id, data, row)
+            db.execute(add_input,data_input)
+            return {"result":"OK"}
+        
+        elif (act == 'output'):
+            add_output = ("update conversations set output = %s where message_id = %s order by id desc Limit 1;")
+            data_output = (data, message_id)
+            db.execute(add_output,data_output)
+            return {"result":"OK"}
+        
+        elif (act == 'query'):
+            query = ("SELECT input, output from conversations"
+         "WHERE message_id = %s and output not NULL")
+            param = (message_id)
+            db.execute(query,param)
+            result = {}
+            for (input, output) in db:
+                result[input] = output
+            return result
+        elif (act == 'input&query'):
+            add_input = ("INSERT INTO llama.conversations (message_id, input, raw) VALUES (%s, %s, %s)")
+            data_input = (message_id, data, row)
+            #logger.debug(f'data_input: \n {data_input} ')
+            db.execute(add_input,data_input)
+            
+
+            query = ("SELECT input, output from llama.conversations "
+         "WHERE message_id = %s and output is not NULL limit 8")
+            param = [message_id]
+            db.execute(query,param)
+            result = {}
+            for (input, output) in db:
+                result[input] = output
+            return result
+        db.close()
+    cnx.close()
+
+
+
 def chat_bot_common(body: dict, is_legacy: bool = False, stream=False) -> dict:
     #logger.debug(f'body of body: \n {body} ')
     if body.get('functions', []):
@@ -430,12 +488,25 @@ def chat_bot_common(body: dict, is_legacy: bool = False, stream=False) -> dict:
     if message_type != "incoming":
         raise InvalidRequestError(message="Invalid message_type", param='message_type')
     content = body['content']
-    messages = [
-        {
+    conversation_id = int(body["conversation"]['id'])
+    #logger.debug(f'conversation_id: \n {conversation_id} ')
+    #logger.debug(f'content: \n {content} ')
+    #logger.debug(f'str(body): \n {json.dumps(body)} ')
+    history_db = exchange_conversation("input&query",conversation_id, content, json.dumps(body))
+    logger.debug(f'history_db: \n {history_db} ')
+
+    messages= []
+    if history_db:
+        for input, output in history_db.items():
+            messages.append({"role":"user","content":input})
+            messages.append({"role":"assistant","content":output})
+
+    messages.append({
             "role": "user",
             "content": content
-        }
-    ]
+        })
+    
+    logger.debug(f'messages: \n {messages} ')
     for m in messages:
         if 'role' not in m:
             raise InvalidRequestError(message="messages: missing role", param='messages')
@@ -589,7 +660,7 @@ def chat_bot_common(body: dict, is_legacy: bool = False, stream=False) -> dict:
             "private": "false",
             "content_type": "text",
         }
-
+        exchange_conversation("output",conversation_id, answer)
         yield resp
 
 

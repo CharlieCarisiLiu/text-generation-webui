@@ -1,4 +1,1885 @@
- 
+ TRAINING & CERTIFICATIONS
+Pink Elephant boasts a comprehensive portfolio of business, leadership and IT service management education programs, simulations and certiﬁcations. All of Pink’s courses can be presented in-house at your location, offered in an instructor-led public or virtual classroom or in self-paced format giving you the ﬂexibility to train anytime, anywhere.To view all course offerings, locations and dates, download the Schedule-At-A-Glance, https://pinkelephant.com/uploadedfiles/Courses/CA_Education_Schedule-At-A-Glance.pdf. Many of Pink’s courses and certifications are based on Professional Designations Corp’s (PDC) integratedITSM™ designation scheme.
+
+The ITSM community has been well-served for many decades. We know because Pink Elephant played the leading role on the world stage starting the IT service management revolution in the late ‘80s and, until last year, supported and contributed to the various versions of multiple frameworks.
+
+But today, and with changing times and changing players, Pink has partnered exclusively with Professional Designations (PDC) to develop what we believe to be a very practical and real-world body of knowledge for ITSM professionals integratedITSM™.  The teachings of this new body of knowledge are based on our consultants’ many decades of helping CIOs and IT practitioners and yes, even tool vendors, implement real-world solutions, not theory.
+
+There are currently a variety of well-established and widely adopted ITSM frameworks, some of which have been around for a long time.
+
+On the other hand, integratedITSM™ represents a relatively fresh approach that is gaining increased attention in the industry. Like a new kid in town, it brings excitement and potential disruption to the established order. We feel that this new body of knowledge offers innovative ideas and perspectives. It brings new approaches to managing IT services and addressing organizational needs.
+
+If you are one of the organizations that have moved on to look at other ITSM options, we believe we have much more practical implementation guidance and ITSM content to offer you. So, for those of you who have told us “What we’ve been using up to now doesn’t work for us anymore,” come along and meet the new kid in town, and experience…
+
+An innovative and different approach to acquiring professional certifications and designations
+A wealth of practical, real-world content in the core courses
+In-depth operational guidance while still providing direct links to the bigger picture of business value
+Content and examples of process management in real-world scenarios
+An ‘integrated’ perspective that includes easy-to-describe and tangible relationships between ITSM and the key enablers of Lean, Agile, DevOps, OCM, and BRM
+No mandatory first course to take in the certification scheme
+No recertification requirements
+How lucky is the ITSM community to have choices! We believe this alternative integratedITSM™ approach warrants serious consideration and comparison with whatever else you’ve been using, and more importantly, we believe it provides excellent value for your training investment. When you compare, like for like, we think you’ll choose the new offerings from Pink Elephant and PDC.
+
+Business & Leadership Certification Courses
+IT Business Leader
+
+IT Business Relationship Manager
+
+Organizational Change Management
+
+Lean IT Leadership
+
+
+IT Service Management Certification Courses
+The integratedITSM™ System
+
+integratedITSM™ Essentials
+
+Enabling integratedITSM™ with DevOps, Agile & Lean
+
+IT Performance & Improvement Management
+
+Value Stream Mapping
+
+Configuration Management Specialist
+
+Problem Management: Root Cause Analysis Specialist
+
+Service Catalog Specialist
+
+Agile Scrum Developer
+
+Agile Scrum Essentials
+
+Agile Scrum Master
+
+Agile Scrum Product Owner
+
+DevOps Engineer
+
+DevOps Essentials
+
+DevSecOps Engineer
+
+Site Reliability Engineer
+
+IT Asset Management Essentials
+
+Lean IT Essentials
+
+Lean IT Kaizen
+
+
+Business Simulations and Active Learning
+DevOps In Action: The Phoenix Project
+
+IT/Business Alignment in Action: Grab@Pizza
+
+The Integrated Service Management Experience: MarsLander®
+
+Agile Project Management In Action: The Challenge Of Egypt
+
+<-------CHUNK-------->
+IT Business Leader
+The 2-day IT Business Leader certification course focuses on the integration of IT organizations with other business areas through integratedITSM™. The course covers three levels of IT business integration, and their many components including strategy, vision, values, mission, goals, objectives, and governance.
+
+Attendees will also learn about the three IT/business model domains, and the basic components of an integrated IT/business model. The certification course provides attendees with the knowledge necessary to lead IT organizations toward driving business success through effective IT management.
+
+The course emphasizes the importance of four areas of integratedITSM™, which include leadership, enablers, execution, and results and continual improvement. The program will provide participants with an in-depth understanding of how to develop and execute a strategic plan, aligning IT and business goals for optimal success.
+
+Course attendees will learn about the three IT/business model domains, which include governance, relationship, and value delivery. This section of the program emphasizes the importance of effective governance, building strong relationships between IT and other business areas, and delivering value to customers.
+
+Finally, the program will cover the basic components of an integrated IT/business model, including strategic decisions, customer value, decision influencers, structural influencers, strategy influencers, and strategic-to-tactical and tactical-to-operational decision-making. Participants will learn how to align these components to create an effective integrated IT/business model that meets the needs of the organization.
+
+WHO SHOULD ATTEND?
+This certification course is suitable for IT leaders and those aspiring to be IT leaders, or roles that interact with IT. Additionally, candidates whose organizations are seeking ISO/IEC 20000 certification will find this certification a compatible and valuable introduction to the standard.
+
+
+PREREQUISITES
+The integratedITSM™ System certification course is a prerequisite.
+
+EXAM & CERTIFICATION
+The exam is offered through Professional Designations and to obtain certification, attendees must write and pass the exam as follows. The exam is included in the course fee and will be ordered for you by Pink Elephant.
+
+Duration: 60 minutes
+Supervised: Yes
+Format: Online and Proctor-led
+COURSE E-MATERIALS
+Material for this course will only be provided as downloadable soft-copy files that can be viewed on a variety of devices. Attendees may print a hard copy of the files in whatever format best meets their needs and can only use the files under the Pink Elephant Terms of Use.
+
+MULTIPLE OPTIONS FOR HOW YOU CAN ATTEND THIS COURSE
+If you would like more information on any of the options below, please call us at 1-888-273-PINK, email us at info@pinkelephant.com, or ask your questions via our convenient Chat window at the bottom-right-hand corner of this page.
+
+Training Method	Description	Purchase Options
+Self-Paced Online (SPO) 
+(Available May 2024)	Learn at your own pace from your computer, anywhere at any time. Get the FULL course in an e-learning format for 12 months.	If you are an individual:
+Purchase below in the shopping cart.
+If you are looking to train your team:
+
+Purchase a Team SPO Training Pass – purchasing your seats in bulk means volume discounts, which vary depending on how many seats you purchase at once.
+To get a quote, open the Chat window below, or contact info@pinkelephant.com.
+Public, Virtual Web-Based	On specific dates throughout the year; hosted live, online, with our expert instructor.	If you are an individual:
+Purchase below in the shopping cart.
+If you are looking to train your team:
+Purchase a Team Public Training Pass – purchasing your seats in bulk means volume discounts, which vary depending on how many seats you purchase at once.
+To get a quote, open the Chat window below, or contact info@pinkelephant.com.
+Team Training	On dates convenient to you; exclusively for your team, hosted live online or at your location with our expert instructor.	
+Get a quote to train your team – open the Chat window below, or contact info@pinkelephant.com.
+
+<-------CHUNK-------->
+
+IT Business Relationship Manager
+COURSE OVERVIEW
+This three-day course will prepare you for the exam leading to the IT Business Relationship Manager (IT-BRM®) Certification.
+
+In today’s high-tech digital world, businesses are experiencing an unprecedented rate of change. At the center of it all is IT. Within IT, Business Relationship Management processes and the specific role of the Business Relationship Manager (BRM) play a critical role in achieving successful business results.
+
+There is no doubt that the key role of the BRM is becoming increasingly vital as business units come to depend more on technology to drive business value. The need to have a designated role to ensure strong communication between IT and other departments has never been greater. But to be effective, BRMs must possess a deep understanding of an organization’s business processes, goals and objectives. Acting as an intermediary between IT and other departments, a BRM plays a big part in reducing business and IT barriers within an organization.
+
+The IT Business Relationship Manager Certification course has been designed to give you the key teachings needed to be a highly effective BRM. It is presented in a systematic fashion and is based on customer feedback along with Pink’s own vast expertise, focusing on core principles of Business Relationship Management. The course delivers hands-on, interactive activities to help you:
+
+Establish, build and maintain the relationship between IT as a service provider and internal business stakeholders
+Identify business value and ensure that both IT and stakeholders understand the requirements to meet strategic goals
+Identify business partner needs and requirements and ensure that the service provider can meet these needs as business needs change or evolve over time
+Assist the business in understanding, measuring and leveraging the value of a service
+WHY CHOOSE PINK
+There are three major differentiating components that run throughout the course. No other BRM course includes these components.
+
+The New iBRM Framework
+You will be introduced to the NEW Integrated Business Relationship Management Framework (iBRMF) made up of five lifecycle phases:
+
+Business & IT Strategy
+Customer Engagement
+Plan, Build, Test & Deploy
+Operational Excellence
+Continual Improvement
+Actionable BRM Maturity Model
+You will be encouraged to assess and identify the maturity levels for both your role AND the organization in each of the iBRM Framework phases – that’s a total of 10 measurement points. The course then recommends actions that can be taken at each measurement point for advancement through to the next maturity level.
+
+Practical Hands-On Activities
+Throughout the course you will be introduced to practical hands-on activities specially designed to build upon what you’re learning and help you apply the new techniques and practices back at work.
+
+Additionally, this course is organized and structured with an intuitively relatable flow where each topic in each module logically relates to the next, making it easy to follow and build upon.
+
+LEARNING OUTCOMES
+Understand the purpose, objectives and challenges of implanting a BRM practice
+Understand the IT Business Relationship Organizational Model to discover how to form a true partnership between the service provider and business units
+Understand the Integrated Business Relationship Management Framework (iBRMF) and critical skills, tools, business and operational metrics for each phase
+Understand how to increase business relationship maturity based on where you are today and how the BRM role matures as the BRM practice becomes more entrenched in the organization’s DNA
+Understand the value of BRM planning and creation tools such as voice of customer (VoC), critical to quality (CTQ), the Kano model, value stream mapping, SIPOC, Gemba walk, capability roadmapping and gathering business requirements
+Learn how to perform a value-based project assessment
+Understand the role of the IT Business Relationship Manager in Organizational Change Management
+WHO SHOULD ATTEND?
+Individuals involved in strategic development, marketing, business analysis, business case development, planning transition, or business process design
+A BRM can come from a range of IT-focused backgrounds such as senior project managers, senior IT service portfolio managers, business analysts, or anyone who has managed an IT service provider organization
+Anyone interested in maximizing business value (Business Relationship Managers or those in similar roles, Quality Managers and Service Level Managers)
+PREREQUISITES
+There are no prerequisites for this course.
+
+EXAM & CERTIFICATION
+This course prepares participants for the exam leading to the IT Business Relationship Manager (IT-BRM®) Certification granted by Professional Designations:
+
+Exam is 1 hour; multiple-choice; closed book
+You will receive an exam voucher for the web-based exam, to be scheduled after the course
+A passing mark of 65% is required to receive your certificate
+After completion of this course, you may apply for self-directed learning PDUs through PMI. Letter of attendance is available upon request.
+COURSE E-MATERIALS
+Material for this course will only be provided as downloadable soft copy files that can be viewed on a variety of devices. Attendees may print a hard copy of the files in whatever format best meets their needs, and can use the files under the Pink Elephant Terms of Use.
+
+All attendees are given access to Pink Elephant’s learning portal, which contains numerous value-added documents, e-files and enriching learning materials.
+
+MULTIPLE OPTIONS FOR HOW YOU CAN ATTEND THIS COURSE
+If you would like more information on any of these options below, please call us at 1-888-273-PINK, email us at info@pinkelephant.com, or ask your questions via our convenient Chat window at the bottom-right corner of this page.
+
+Training Method	Description	Purchase Options
+Self-Paced Online (SPO) 
+Learn at your own pace from your computer, anywhere at any time. Get the FULL course in an e-learning format for 12 months.	If you are an individual:
+Purchase below in the shopping cart.
+If you are looking to train your team:
+
+Purchase a Team SPO Training Pass – purchasing your seats in bulk means volume discounts, which vary depending on how many seats you purchase at once.
+To get a quote, open the Chat window below, or contact info@pinkelephant.com.
+Public, Virtual Web-Based	On specific dates throughout the year; hosted live, online, with our expert instructor.	If you are an individual:
+Purchase below in the shopping cart.
+If you are looking to train your team:
+Purchase a Team Public Training Pass – purchasing your seats in bulk means volume discounts, which vary depending on how many seats you purchase at once.
+To get a quote, open the Chat window below, or contact info@pinkelephant.com.
+Team Training	On dates convenient to you; exclusively for your team, hosted live online or at your location with our expert instructor.	
+Get a quote to train your team – open the Chat window below, or contact info@pinkelephant.com.
+
+<-------CHUNK-------->
+
+Organizational Change Management
+Upskill your leadership abilities!
+
+Driving and inspiring change is a challenge for many organizations and leaders. Some get it right and for those who do, there are very specific critical success factors.  What are these factors – this course tells you!
+
+While the course focuses on leaderships skills needed for successfully leading people through change, the course content can be applied to everyday people management too. Understanding the following should be part of every leader’s toolkit: team dynamics; how to develop communication strategies; how to assess individuals’ motivational drivers; and how to demonstrate influential and inspirational leadership.
+
+COURSE OVERVIEW
+This three-day course provides attendees with the core concepts and leadership practices intrinsic to organizational change management, as well as strategies on how to gain employee commitment and overcome resistance. Participants will obtain knowledge of techniques for inspiring and leading staff to embrace and sustain change to keep the organization moving in the right direction.
+
+The course also goes beyond concepts and, using the 20/20 change model, participants will engage in many practical exercises and case studies to apply best practices for leading change.
+
+By using the 20/20 model as a framework, attendees will learn how to define why a change is necessary and why getting the right leadership support is important, as well as how to put together a detailed plan for the change, execute the change plan, and ensure the change is sustained in the organization. There is a lot of discussion about how to practically apply what you have learned in class to your organization.
+
+WHAT IS THE 20/20 CHANGE MODEL?
+The 20/20 change model is a four-phase model that first clarifies your organization’s business objectives, ensures the change initiative will align with the over-arching business objectives, and embeds the change within the culture and practices of the organization.
+
+20/20 Change Model
+Here are the four phases of the 20/20 Change Model:
+
+Phase I – Clarify and Align
+
+Pinpoint the business objectives that your project or team needs to align with and determine what needs to be done to realize these objectives, as well as whether it’s worthwhile to undertake this project right now.
+Identify how this project will move the organization closer to achieving its business objectives, which will make it clear how near/far your team’s objectives are from those of the business.
+Phase II – Plan and Approach
+
+Determine the various steps that need to be taken to implement this change, including what needs to be done, by who, and with what resources.
+Decide on an appropriate methodology and, as you proceed, continually validate progress to ensure you are on the right track.
+Phase III – Engage and Implement
+
+Determine how to engage with your people to empower them with everything they need to get the job done, as well as to accept and adapt to the change.
+Remember that as a leader your job is to help others achieve stated goals.
+Phase IV – Validate and Sustain
+
+Determine if you have accomplished what you set out to do by:
+Identifying key performance indicators at the outset and validating they are being achieved as you proceed.
+Observing the impact of the change on customers and business goals.
+Observing if employees are truly committed to the permanence of the change, working in a different and more efficient way, and if they are motivated to build on the change through additional improvements and benefits.
+LEARNING OUTCOMES
+Course participants will learn how to:
+
+Use specific leadership theories and team dynamic concepts to manage people through the major phases of change – unfreeze, change, freeze
+Use the 20/20 organizational change model to lead and manage people through a change initiative
+Apply a SWOT analysis to understand the organization's external and internal environment to help leaders define the problem that needs to be solved and create a sense of urgency about it
+Develop an organizational change management plan to define, agree-upon, and manage the work effort needed for the people side of a change initiative
+Build an effective change leadership team and change agent network to support the change initiative
+Develop an organizational change vision, strategy, and road map
+Understand why a stakeholder engagement plan is important, and what the best practices are for creating and executing an effective plan
+Understand why communication as well as training and development plans are important, and what the best practices are for creating and executing effective strategies and plans
+Assess organizational change readiness to ensure the organization has the right change capacity and capability
+Provide the right leadership style to lead the planned change activities
+Develop quantitative and qualitative user adoption measures to show the positive effects of the people side of change
+Identify the activities required to formally close the organizational change management initiative and transfer ownership for sustaining the change to the relevant stakeholders
+Use the templates from the course, based on the 20/20 organizational change model, and understand the many key questions you need to ask under each of the model's components
+WHO SHOULD ATTEND?
+This is a management-focused course and designed for those who lead, manage, and/or support organizational change initiatives, including:
+
+Senior leaders/managers: CIOs, VPs, AVPs, directors
+Program, project, and business managers
+Change managers/leaders and change agents
+Business analysts
+HR and organizational development practitioners
+Individuals aspiring to become change managers and leaders
+COURSE INSTRUCTOR
+The course is taught by one of Pink’s most senior consultants – all of whom have decades of experience helping organizations plan for and implement major change. During the course and based on their consultants’ case books, there are numerous real-life examples discussed that detail how leaders have applied the concepts and theories described throughout the agenda.
+
+EXAM & CERTIFICATION
+The exam is offered through Professional Designations Corp.
+
+One-hour, closed book, and consists of 30 multiple-choice questions.
+A passing score of 60% – 18 correct answers – is required.
+After completion of this course, you may apply for self-directed learning PDUs through PMI. A letter of attendance is available upon request.
+COURSE E-MATERIALS
+Material for this course will only be provided as downloadable soft-copy files that can be viewed on a variety of devices. Attendees may print a hard copy of the files in whatever format best meets their needs and can only use the files under Pink Elephant's Terms of Use.
+
+MULTIPLE OPTIONS FOR HOW YOU CAN ATTEND THIS COURSE
+If you would like more information on any of the options below, please call us at 1-888-273-PINK, email us at info@pinkelephant.com, or ask your questions via our convenient Chat window at the bottom-right corner of this page.
+
+Training Method	Description	Purchase Options
+Self-Paced Online (SPO) 
+Learn at your own pace from your computer, anywhere at any time. Get the FULL course in an e-learning format for 12 months.	If you are an individual:
+Purchase below in the shopping cart.
+If you are looking to train your team:
+
+Purchase a Team SPO Training Pass – purchasing your seats in bulk means volume discounts, which vary depending on how many seats you purchase at once.
+To get a quote, open the Chat window below, or contact info@pinkelephant.com.
+Public, Virtual Web-Based	On specific dates through the year; hosted live, online, with our expert instructor.	If you are an individual:
+Purchase below in the shopping cart.
+If you are looking to train your team:
+Purchase a Team Public Training Pass – purchasing your seats in bulk means volume discounts, which vary depending on how many seats you purchase at once.
+To get a quote, open the Chat window below, or contact info@pinkelephant.com.
+Team Training	On dates convenient to you; exclusively for your team, hosted live online or at your location with our expert instructor.	
+Get a quote to train your team – open the Chat window below, or contact info@pinkelephant.com.
+<-------CHUNK-------->
+Lean IT Leadership
+If you are new to Lean, click here to read a brief introduction.
+
+What is Lean leadership? It’s a specific leadership model focused on cultural transformation that enables people to identify and deal with quality issues at the source or where work happens. The model teaches leaders about the importance of three core principles: Go see, ask why, and show respect.
+
+Lean leadership seeks to improve business and customer value through increased engagement and accountability. Lean IT leadership provides IT leaders with a principle-based methodology – specifically, the Lean Leadership Development model – to develop their organizations into one that has a lean thinking mindset by modeling, driving, and teaching continuous improvement. Lean IT is underpinned by principles that expedite an increase in the reliable and predictable delivery of services, as well as the development of superior IT products and services.
+
+Lean IT leadership is different from traditional hierarchical or command-and-control models. It focuses on leadership principles that are critical to enabling an organization with the agility to quickly and effectively advance service and process improvement opportunities. The established Lean IT leader serves as both a role model and a teacher – or sensei – to their organization. Lean IT leaders help transform their corporate culture by demonstrating their ability to walk their talk by committing to their own self-development and guiding others in the organization do the same.
+
+Quote from a Raving Fan:
+
+“I have been able to immediately apply things I learned in Lean Leadership in my leadership role. Very practical and valuable.”
+LEAN IT LEADERSHIP BENEFITS
+A Lean IT leader facilitates a more efficient and productive IT organization that emphasizes customer value, better enables the delivery of business value, and improves the business’ financials. Here are just some of the benefits a certified Lean IT leader can bring to their organization:
+
+Increased customer satisfaction due to:
+Customer value being central to all decisions
+Minimal disruptions in service
+A faster delivery of promised capabilities
+Receiving higher quality products and services more quickly
+Strategic advantages:
+Everyone in the organization will share a common purpose and goals
+Work will be more plannable
+Processes will be streamlined and produce fewer defects, so products and services will be delivered more quickly
+Less resources will be required to obtain work results
+Lead times to new capabilities will be minimized
+Employees will become more productive and motivated
+The workplace will become a safer place
+Financial advantages will be realized due to:
+Value will flow seamlessly from the beginning of the process to the end
+Lead times will be reduced, and shorter delivery times mean not only will customers get their products faster, but the organization will also make money faster as well
+COURSE OVERVIEW
+The Lean IT Essentials entry-level course is the first in the Lean IT certification scheme that’s been defined by Professional Designations Corp. (PDC), and it is a mandatory requirement for taking Lean IT Kaizen and Lean IT Leadership.
+
+This intensive three-day Lean IT Leadership course builds on the core knowledge and concepts obtained in Lean IT Essentials. It focuses on how to lead for a culture that embraces Lean and why that’s important. Participants will learn the basics of Lean leadership, the principles of Lean IT leadership, and leadership in an IT context – as well as receive guidance on the practical use of hands-on Lean tools and techniques so they can implement Lean IT in their organization. The course is interactive, participative, and will equip you to become an exemplary Lean IT leader who can inspire, enable, and empower everyone within your organization to embrace Lean IT principles and operational excellence. This can take place at any level of the organization or in any section of it.
+
+This course is key to all IT service management courses that focus on enhancing business value and speed to market, such as Agile, and DevOps. Pink’s course stands out from others because our participants have opportunities to practice meaningful Lean IT Leadership through a series of exercises and even develop a customized strategy to bring back to their workplace so it can be transformed to Lean IT.
+
+The course provides you with the knowledge of how and why Lean leadership is different from traditional hierarchical or command and control models. It focuses on Lean principles such as gemba (go to where the work happens) and jidoka (empowerment of the team member to ‘stop the line’) to address quality issues as soon as they are discovered. Lean leadership principles are critical to enabling an agile team, which deals quickly and effectively with service and process improvement opportunities.
+
+Attendees will define a plan for a Lean IT transformation of their own IT organization, which includes:
+
+Planning and structuring a Lean IT transformation using the five Lean IT dimensions
+Make a change story for your own situation
+Complete an A3 proposal for the execution of a Lean IT transformation
+Determine which Lean tools and methods must be applied at what moment in a Lean IT transformation
+LEARNING OUTCOMES
+During this intensive three-day course, you will gain:
+
+Understanding of how to apply the key components of Lean leadership that include:
+The Shingo model and its four guiding principles that directly impact Lean leadership – respecting every individual, leading with humility, creating a constancy of purpose, and thinking systemically
+The key elements of systemic thinking – holistic thinking, dynamic thinking, and closed-loop thinking
+The definition of True North values, which are the core values everyone within an organization should exemplify; its five elements are challenge, a kaizen mindset, go and see, teamwork, and respect
+Defining the Lean style of leadership and the four aspects of the Lean Leadership Development model:
+Commit to self-development
+Inspire by being a role model, as well as help others to develop and achieve goals
+Achieve continuous improvement
+Develop and implement vision, goals, and communication – and incorporate living by your True North values through repeated learning cycles
+The five flows of IT value as defined by Bell – external customer-focused, business partner-focused, business customer-focused, system/service-focused, and technology-focused
+The differences between Lean leadership and Level 5 leadership
+Comprehension of the importance of committing to self-development both personally and within the organization by:
+Understanding and applying the key aspects of committing to self-development that include the self-development principles of shu-ha-ri, which is a Japanese martial arts concept that describes the progression of training or learning. Shu means to execute and learn exactly, ha means standardize with some improvisation, and ri means mastering the standards by focusing on deepening your skills and understanding
+Learning and employing the four key tools that help develop Lean leaders – lead standard work, the gemba walk (going to the place where value is created), structured problem-solving, and visual management
+Adopting the kaizen mindset of always seeking improvement
+Accepting accountability in a Lean IT setting and leading others to do the same
+Implementing the kata of leadership – creating a methodology of repeated, consistent practices
+Recognition of the importance of developing others as an integral part of Lean IT leadership and help them understand and apply:
+The Lean concept of eliminating waste, which includes mura and muri
+The key goals of a gemba walk – support, teach, promote, and the relationship between jidoka (an environment where disturbances to the flow of work through the value streams are made visible) and a gemba walk
+Genchi genbutsu, which means going to the gemba to observe what is happening, without judging
+Nemawashi, which means an information process of laying the foundation for a decision, change, or project
+T-type leadership, which is a combination of a deep understanding of a technical area, supplemented by a broad knowledge of leadership and IT service delivery
+The five whys method for identifying the root cause of a problem
+Understanding of how to use hoshin kanri, which is a cyclic method for translating strategy to operations
+Knowledge about how a Lean IT leader must communicate the vision and goals using five tools for open and transparent communication
+Practical knowledge of how to use the Lean A3 tool that is a proven method of identifying a problem, analyzing the data, determining the correction actions, and capturing the action plan on a single sheet of paper. This process empowers all employees to realize improvements and solve problems themselves.
+PREREQUISITES
+For this course you are required to have successfully attained your Lean IT Essentials certificate. Upon registration, you will need to provide us with a copy of your certificate to be admitted into this course. To look at available dates for the Lean IT Essentials certification course, click here.
+
+EXAM & CERTIFICATION
+This course prepares participants for the examination leading to the Lean IT Leadership certificate:
+
+The exam is open book, and the Lean IT Leadership official publication is allowed for reference during the exam.
+The exam is two hours in duration and consists of 60 multiple-choice questions. Sample exams/case scenarios will be used during the course for practice. Participants are provided with an exam voucher so they can schedule the exam at their convenience on any date after their completion of the course.
+A passing mark of 65% is required to achieve certification.
+After completion of this course, you may apply for self-directed learning PDUs through PMI. Letter of attendance is available upon request.
+LEAN IT CERTIFICATION PROGRAM AND DESIGNATION
+You can now be recognized as a Lean IT Professional and use the new designation after your name – LITP. How do you qualify? Pass the examinations for these three certification courses that comprise the LITP certification scheme:
+
+Lean IT Essentials
+Lean IT Kaizen
+Lean IT Leadership
+WHO SHOULD ATTEND?
+A Lean leader is anyone who is involved with leading or sponsoring a Lean improvement initiative at any level of the organization and within any department. This course is designed for IT practitioners interested in expanding their leadership, mentoring, and team development skills based on the Lean principles developed through the Toyota Way, and includes:
+
+Managers tasked with department level improvements
+Senior IT Leaders
+Lean project sponsors
+Project Managers
+Any role responsible for leading quality and continual service improvement initiatives.
+COURSE E-MATERIALS
+Materials for this course will only be provided as downloadable soft-copy files that can be viewed on a variety of devices. Attendees may print a hard copy of the files in whatever format best meets their needs and can use the files under the Pink Elephant Terms of Use.
+
+RECOMMENDED PRE-READING
+Materials included with this course provide a very good overview of the concepts and principles, and adequately prepare attendees for the exam. For those seeking to expand further, we recommend the following publications and articles:
+
+Lean IT: Enabling and Sustaining Your Lean Transformation — Steven C. Bell, Michael A. Orzen
+Developing Lean Leaders at All Levels: A Practical Guide — Jeffrey K. Liker
+You can purchase these recommended readings from the following sources:
+
+Amazon
+The Book Depository
+Barnes & Noble
+MULTIPLE OPTIONS FOR HOW YOU CAN ATTEND THIS COURSE
+If you would like more information on any of these options below, please call us at 1-888-273-PINK, email us at info@pinkelephant.com, or ask your questions via our convenient Chat window at the bottom-right corner of this page.
+
+Training Method	Description	Purchase Options
+Self-Paced Online (SPO)	Learn at your own pace from your computer, anywhere at any time. Get the FULL course in e-learning format for 12 months.	If you are an individual:
+Purchase below in the shopping cart.
+If you are looking to train your team:
+Purchase a Team SPO Training Pass – purchasing your seats in bulk means volume discounts, which vary depending on how many seats you purchase at once.
+To get a quote, open the Chat window below, or contact info@pinkelephant.com.
+Team Training	On dates convenient to you; exclusively for your team, hosted live online or at your location with our expert instructor.	
+Get a quote to train your team – open the Chat window below, or contact info@pinkelephant.com.
+<-------CHUNK-------->
+The integratedITSM™ System
+“Pink Elephant has hit another home run!”
+– A Recent Course Attendee
+
+
+COURSE OVERVIEW
+This one-day certification course is designed for IT professionals to gain an understanding of the integratedITSM™ System which represents a management system approach that describes how IT needs to work within business goals to achieve business results.
+
+The course provides the foundational information needed to understand the integratedITSM™ components and how they work together. Attendees will be introduced to the role and importance of an effective integrated IT business leader, how IT service management processes need to be designed and executed in an integrated approach to support business and IT needs, how different enablers including product, service and process roles, organizational change management, Agile, Lean and DevOps enable the ITSM processes, and how IT performance results and improvement management support business and IT leader decisions.
+
+Upon completion, candidates will receive a certificate that demonstrates their foundational knowledge and understanding of the integratedITSM™.
+
+
+LEARNING OBJECTIVES
+Upon the successful completion of this one-day course, students will understand:
+
+The origins and importance of systems thinking and its effect on organizations and organizational management
+The integratedITSM™ and the benefits of an integrated IT and business organization structure
+The key concepts of leadership and the role of the integrated IT business leader
+IT service management (ITSM) and its importance for effective integratedITSM™
+ITSM process integration with three examples, integrated production and support, integrated change and release engineering processes, and integrated service engagement
+The importance of key stakeholder roles in enabling the integratedITSM™
+The concepts of and need for organizational change management, Lean IT, Agile and agile development, and DevOps in an integratedITSM™ organization
+IT performance results and improvement management and how they support improved business results
+The significance of each of the major components of the integratedITSM™ System, as depicted below:
+IBM
+THE integratedITSM™ DESIGNATION SCHEME
+This certification course is part of Professional Designations’ new designation scheme for the integratedITSM™ and is required to achieve the following designations:
+
+integratedITSM™ Champion
+integratedITSM™ Professional
+Organizational Change Management Architect™
+IT Business Relationship Management Architect™
+Value Stream Mapping Architect™
+IT Performance & Improvement Management Architect™
+Click on the graphic below to enlarge.
+
+
+
+
+WHO SHOULD ATTEND?
+This certification course is suitable for anyone working in IT or in roles that interact with IT.
+
+
+PREREQUISITES
+There are no prerequisites for this certification course.
+
+EXAM & CERTIFICATION
+The exam is offered through Professional Designations and to obtain certification, attendees must write and pass the exam as follows. The exam is included in the course fee and will be ordered for you by Pink Elephant.
+
+Duration: 45 minutes
+Supervised: Yes
+Format: Proctored online
+COURSE E-MATERIALS
+Material for this course will only be provided as downloadable soft-copy files that can be viewed on a variety of devices. Attendees may print a hard copy of the files in whatever format best meets their needs and can only use the files under the Pink Elephant Terms of Use.
+
+MULTIPLE OPTIONS FOR HOW YOU CAN ATTEND THIS COURSE
+If you would like more information on any of the options below, please call us at 1-888-273-PINK, email us at info@pinkelephant.com, or ask your questions via our convenient Chat window at the bottom-right-hand corner of this page.
+
+Training Method	Description	Purchase Options
+Self-Paced Online (SPO)
+(Available May 2024)	Learn at your own pace from your computer, anywhere at any time. Get the FULL course in an e-learning format for 12 months.	If you are an individual:
+Purchase below in the shopping cart.
+If you are looking to train your team:
+
+Purchase a Team SPO Training Pass – purchasing your seats in bulk means volume discounts, which vary depending on how many seats you purchase at once.
+To get a quote, open the Chat window below, or contact info@pinkelephant.com.
+Public, Virtual Web-Based	On specific dates throughout the year; hosted live, online, with our expert instructor.	If you are an individual:
+Purchase below in the shopping cart.
+If you are looking to train your team:
+Purchase a Team Public Training Pass – purchasing your seats in bulk means volume discounts, which vary depending on how many seats you purchase at once.
+To get a quote, open the Chat window below, or contact info@pinkelephant.com.
+Team Training	On dates convenient to you; exclusively for your team, hosted live online or at your location with our expert instructor.	
+Get a quote to train your team – open the Chat window below, or contact info@pinkelephant.com.
+<-------CHUNK-------->
+integratedITSM™ Essentials
+"The depth of this course far exceeded my expectations – the content is unbelievably rich. I am walking away with very practical information that has helped me fill in many missing gaps. Kudos to (the instructor) and Pink!"
+– Course attendee 
+
+COURSE OVERVIEW
+This course gets down to the “nitty gritty” of integratedITSM™ and with the addition of describing the business connections within a wider view of integratedITSM™. Using Pink’s extensive 40 years of history with IT best practices, the course content includes a real-life and very practical view of the important elements your IT organization needs to consider, define, manage, and deliver to achieve effective and meaningful IT services.
+
+This three-day certification course provides IT professionals with the essential knowledge required to understand how integratedITSM™ is a key part of a holistic Integrated IT Business Management as a quality system. The course is focused on two primary areas: the importance of an ‘integrated’ IT service management approach; and the enabling functions, processes, and resources needed to support the operation as well as underpin nine essential IT service management processes.
+
+Pink Elephant consultants are proud to be among the industry’s experts who were asked to contribute to the certification content.
+
+This content-rich course includes very practical discussions and exercises that profile ‘real-world’ IT service management situations and provide attendees with numerous improvement opportunities that can be applied right away upon returning to the workplace.
+
+THE integratedITSM™ DESIGNATION SCHEME
+This certification course is part of Professional Designations’ new designation scheme for integratedITSM™ and is required to achieve the following designations:
+
+integratedITSM™ Champion
+integratedITSM™ Professional
+Organizational Change Management Architect™
+IT Business Relationship Management Architect™
+Value Stream Mapping Architect™
+IT Performance & Improvement Management Architect™
+Click on the graphic below to enlarge.
+
+
+
+
+LEARNING OBJECTIVES
+Upon their successful completion of the course, attendees will understand:
+
+A big picture view of the integratedITSM™ System and the concept of ‘systems thinking’
+How integratedITSM™ enables business value
+Business process management (BPM) and its significance to IT service management
+The meaning of ‘process management’ and the components of inputs, throughputs/activities, outputs, and metrics, as well as key integrations
+A real-world view of the 9 building blocks of every process and how to apply them to each of these specific processes: business relationship management, service level management, IT asset management, configuration management, incident management, problem management, request management, change management, and release and deployment management.
+WHO SHOULD ATTEND?
+This certification course is suitable for anyone working in IT or in roles that interact with IT.
+
+PREREQUISITES
+There are no prerequisites for this certification course.
+
+EXAM & CERTIFICATION
+The exam is offered through Professional Designations Corp. (PDC) and, to obtain certification, attendees must write and pass the exam as follows. The exam is included in the course fee and will be ordered for you by Pink Elephant.
+
+Duration: 60 minutes
+Questions: 40 multiple-choice questions; closed book
+Pass Mark: 65% (26 questions correct out of 40 questions)
+Supervised: Yes
+Format: Online
+COURSE E-MATERIALS
+Material for this course will only be provided as downloadable soft-copy files that can be viewed on a variety of devices. Attendees may print a hard copy of the files in whatever format best meets their needs and can only use the files under the Pink Elephant Terms of Use.
+
+MULTIPLE OPTIONS FOR HOW YOU CAN ATTEND THIS COURSE
+If you would like more information on any of the options below, please call us at 1-888-273-PINK, email us at info@pinkelephant.com, or ask your questions via our convenient Chat window at the bottom-right corner of this page.
+
+Training Method	Description	Purchase Options
+Self-Paced Online (SPO) 	Learn at your own pace from your computer, anywhere at any time. Get the FULL course in an e-learning format for 12 months.	If you are an individual:
+Purchase below in the shopping cart.
+If you are looking to train your team:
+
+Purchase a Team SPO Training Pass – purchasing your seats in bulk means volume discounts, which vary depending on how many seats you purchase at once.
+To get a quote, open the Chat window below, or contact info@pinkelephant.com.
+Public, Virtual Web-Based	On specific dates through the year; hosted live, online, with our expert instructor.	If you are an individual:
+Purchase below in the shopping cart.
+If you are looking to train your team:
+Purchase a Team Public Training Pass – purchasing your seats in bulk means volume discounts, which vary depending on how many seats you purchase at once.
+To get a quote, open the Chat window below, or contact info@pinkelephant.com.
+Team Training	On dates convenient to you; exclusively for your team, hosted live online or at your location with our expert instructor.	
+Get a quote to train your team – open the Chat window below, or contact info@pinkelephant.com.
+<-------CHUNK-------->
+Enabling integratedITSM™ with DevOps, Agile & Lean
+Quote from a Raving Fan:
+
+"The course was excellent. It helped me in understanding how I can incorporate ITSM, Agile, Lean, DevOps into my group. The materials, videos and classroom discussions really helped me to understand the material and made the class fun."
+THE integratedITSM™ DESIGNATION SCHEME
+This certification course is part of Professional Designations’ new designation scheme for integratedITSM™ and is required to achieve the following designations: integratedITSM™ Champion
+
+Click on the graphic below to enlarge.
+
+
+
+
+COURSE OVERVIEW
+No other course provider gives you an 'integrated' view of IT service management (ITSM) – a must have in today’s turbulent business environment. This includes a unique 'Full Stack' view of DevOps, which is a necessity to successfully enable improved quality, higher speed, and a reduction in costs.
+
+IT organizations are constantly challenged to improve the way services are delivered in respect to quality, speed, and cost. In response to these ongoing pressures, organizations have long turned to ITSM frameworks to improve the quality and value of their service delivery capabilities.
+
+In addition to ITSM practices, recent trends and market pressures have introduced additional models, methods, and concepts designed to further accelerate traditional IT management practices such as project management, software development, and service delivery. However, many organizations find that these practices are leveraged in isolation by different teams. This leads to competition for resources – creating conflict and distracting management's focus, rather than collaborating and gaining the benefit of integration.
+
+The Enabling integratedITSM™ with DevOps, Agile & Lean certification course adds to your knowledge of proven ITSM capabilities and demonstrates how the practices of ITSM, Lean, Agile, and DevOps work together to enable successful outcomes, remove waste, lower costs, and increase business value.
+
+The course promotes the view that an 'integrated' approach to managing these practices is needed (and explains exactly how), and that it is not a matter of “which one do we choose?”
+
+LEARNING OUTCOMES
+By the end of this certification course, you will be able to articulate:
+
+The concept of integrated service management in relation to business goals
+The scope, benefits, and key touch points of integrated service management in respect to how ITSM, Lean, Agile, DevOps, and organizational change management practices collectively revitalize your service management initiative, enable process acceleration, reduce risk, lower costs, and deliver customer value
+The differences in perspective and focus of a technology versus a service outcome-focused organization
+The core service management life cycle stages and processes and how they are enabled or modified by other models such as Agile and DevOps
+The core elements of Lean thinking, value stream mapping, and process improvement
+Agile project management practices, including Scrum roles and processes
+How the principles and automated practices of continuous delivery, integration, and deployment improve speed to value and reduce risk
+The key principles of 'DevOps – The Full Stack' in respect to improved collaboration, continuous delivery, and automation
+How organizational change management practices can be applied to achieve success with major cultural transformations
+WHO SHOULD ATTEND?
+This class is designed for anyone working in an IT organization with a role in service management, operations, project management, software development, management, and leadership.
+
+PREREQUISITES
+There are no mandatory prerequisites. Work experience in IT services is recommended.
+
+EXAM & CERTIFICATION
+This course prepares participants for the examination leading to the Enabling integratedITSM™ with DevOps, Agile & Lean certificate, granted by Professional Designations:
+
+Exam is one hour; multiple-choice; closed book
+You will receive an exam voucher for the web-based exam, to be scheduled after the course
+After completion of this course, you may apply for self-directed learning PDUs through PMI. Letter of attendance is available upon request.
+COURSE E-MATERIALS
+Material for this course will be provided in downloadable soft copy. However, if you prefer, you may print the files according to the Pink Elephant Terms of Use .
+
+MULTIPLE OPTIONS FOR HOW YOU CAN ATTEND THIS COURSE
+If you would like more information on any of these options below, please call us at 1-888-273-PINK, email us at info@pinkelephant.com, or ask your questions via our convenient Chat window at the bottom-right corner of this page.
+
+Training Method	Description	Purchase Options
+Self-Paced Online (SPO)	Learn at your own pace from your computer, anywhere at any time. Get the FULL course in an e-learning format for 12 months.	If you are an individual:
+Purchase below in the shopping cart.
+If you are looking to train your team:
+
+Purchase a Team SPO Training Pass – purchasing your seats in bulk means volume discounts, which vary depending on how many seats you purchase at once.
+To get a quote, open the Chat window below, or contact info@pinkelephant.com.
+Public, Virtual Web-Based	On specific dates throughout the year; hosted live, online, with our expert instructor.	If you are an individual:
+Purchase below in the shopping cart.
+If you are looking to train your team:
+Purchase a Team Public Training Pass – purchasing your seats in bulk means volume discounts, which vary depending on how many seats you purchase at once.
+To get a quote, open the Chat window below, or contact info@pinkelephant.com.
+Team Training	On dates convenient to you; exclusively for your team, hosted live online or at your location with our expert instructor.	
+Get a quote to train your team – open the Chat window below, or contact info@pinkelephant.com.
+<-------CHUNK-------->
+IT Performance & Improvement Management
+The role of IT in driving business success is more critical than ever. This comprehensive certification course in IT Performance and Improvement Management is the gateway to mastering the essential strategies and techniques needed to propel organizations forward.
+
+Over two immersive days, attendees will explore the core principles and practices that underpin integratedITSM™. The primary focus will be on IT Performance and Improvement Management to equip attendees with the tools and insights to elevate IT service delivery, optimize performance metrics, and drive tangible results that directly impact the organization's bottom line.
+
+Benefit from Pink's four decades of expertise in IT service management, leveraging insights from successful improvement projects spearheaded by our renowned consultants. Gain practical, real-world perspectives on measuring and managing IT performance, and discover how to align IT services seamlessly with overarching business objectives.
+
+Through hands-on exercises and interactive learning experiences, attendees will translate theory into action, practicing their ability to apply key concepts in real-world scenarios. From learning metrics and critical-to-quality attributes to harnessing the power of dashboards and balanced scorecards, this course empowers individuals to navigate the complexities of IT performance management with confidence and proficiency.
+
+THE integratedITSM™ DESIGNATION SCHEME
+This certification course is part of Professional Designations’ new designation scheme for integratedITSM and is required to achieve the following designations:
+
+integratedITSM™ Champion
+IT Performance & Improvement Management Architect™
+Click on the graphic below to enlarge.
+
+
+
+
+LEARNING OBJECTIVES
+Upon the successful completion of this course, attendees will:
+
+Learn practical strategies for measuring, analyzing, and enhancing IT service delivery
+Understand essential tools, including dashboards, balanced scorecards, and process maturity assessments
+Engage in hands-on exercises for tangible understanding and real-world application
+Align IT services with business objectives to drive continuous improvement and tangible outcomes
+WHO SHOULD ATTEND?
+This certification course is suitable for anyone working in IT or in roles that interact with IT. Additionally, candidates whose organizations are seeking ISO/IEC 20000 certification will find this certification a compatible and valuable introduction to the standard.
+
+
+PREREQUISITES
+There are no prerequisites for this certification course. It is recommended (but not required) that participants first attend the integratedITSM™ Essentials certification course.
+
+EXAM & CERTIFICATION
+The exam is offered through Professional Designations Corp (PDC) and to obtain certification, attendees must write and pass the exam as follows. The exam is included in the course fee and will be ordered for you by Pink Elephant.
+
+Duration: 60 minutes
+Questions: 40 multiple-choice questions; closed book
+Pass Mark: 65% (26 questions correct out of 40 questions)
+Supervised: Yes
+Format: Online
+COURSE E-MATERIALS
+Material for this course will only be provided as downloadable soft-copy files that can be viewed on a variety of devices. Attendees may print a hard copy of the files in whatever format best meets their needs and can only use the files under the Pink Elephant Terms of Use.
+
+MULTIPLE OPTIONS FOR HOW YOU CAN ATTEND THIS COURSE
+If you would like more information on any of the options below, please call us at 1-888-273-PINK, email us at info@pinkelephant.com, or ask your questions via our convenient Chat window at the bottom-right-hand corner of this page.
+
+Training Method	Description	Purchase Options
+Self-Paced Online (SPO) 
+(Available April 2024)	Learn at your own pace from your computer, anywhere at any time. Get the FULL course in an e-learning format for 12 months.	If you are an individual:
+Purchase below in the shopping cart.
+If you are looking to train your team:
+
+Purchase a Team SPO Training Pass – purchasing your seats in bulk means volume discounts, which vary depending on how many seats you purchase at once.
+To get a quote, open the Chat window below, or contact info@pinkelephant.com.
+Public, Virtual Web-Based	On specific dates throughout the year; hosted live, online, with our expert instructor.	If you are an individual:
+Purchase below in the shopping cart.
+If you are looking to train your team:
+Purchase a Team Public Training Pass – purchasing your seats in bulk means volume discounts, which vary depending on how many seats you purchase at once.
+To get a quote, open the Chat window below, or contact info@pinkelephant.com.
+Team Training	On dates convenient to you; exclusively for your team, hosted live online or at your location with our expert instructor.	
+Get a quote to train your team – open the Chat window below, or contact info@pinkelephant.com.
+<-------CHUNK-------->
+Value Stream Mapping
+Value Stream Mapping is a Lean tool that provides organizations with a holistic view of their processes, helping to identify inefficiencies and areas for improvement. It is a powerful tool for breaking down silos within an organization, as it encourages collaboration and communication across different departments and functions.
+
+The two-day Value Stream Mapping certification course is a practical and applied program that covers process design, assessment, and improvement using Lean principles. It provides individuals with the necessary knowledge to identify and eliminate waste, shorten lead and cycle times, and improve flow across the IT value chain.
+
+Attendees will learn value stream mapping techniques, including current state mapping, future state mapping, and value stream design. Upon completion, individuals will be equipped to drive continuous improvement within their organizations by optimizing processes, reducing waste, and improving flow. The program is designed to break down silos and encourage collaboration across departments and functions.
+
+This covers the following areas:
+
+Process design: This section focuses on the principles of Lean thinking and process design. Participants will learn how to create value for customers while eliminating waste and reducing cycle times. They will also learn about the different types of waste that can occur in processes and how to identify them.
+Assessment and improvement: In this section, participants will learn how to assess current processes and identify areas for improvement. They will learn how to use tools such as value stream mapping, process flow analysis, and root cause analysis to identify inefficiencies and opportunities for improvement.
+Value stream mapping techniques: This section covers the different types of value stream mapping techniques, including current state mapping, future state mapping, and value stream design. Participants will learn how to use these techniques to identify waste, optimize processes, and improve flow across the IT value chain.
+Overall, this course provides candidates with the tools and techniques they need to drive continuous improvement within their organizations.
+
+THE integratedITSM™ DESIGNATION SCHEME
+This certification course is part of Professional Designations’ new designation scheme for integratedITSM™ and is required to achieve the following designations:
+
+integratedITSM™ Champion
+Value Stream Mapping Architect™
+Click on the graphic below to enlarge.
+
+
+
+
+WHO SHOULD ATTEND?
+This certification course is suitable for anyone working in IT or in roles that interact with IT. Additionally, candidates whose organizations are seeking ISO/IEC 20000 certification will find this certification a compatible and valuable introduction to the standard.
+
+
+PREREQUISITES
+There are no prerequisites for this certification course. It is recommended (but not required) that participants first attend the integratedITSM™ Essentials Certification Course, or Lean IT Essentials Certification Course.
+
+EXAM & CERTIFICATION
+The exam is offered through Professional Designations and to obtain certification, attendees must write and pass the exam as follows. The exam is included in the course fee and will be ordered for you by Pink Elephant.
+
+Duration: 60 minutes
+Supervised: Yes
+Format: Online and Proctor-led
+COURSE E-MATERIALS
+Material for this course will only be provided as downloadable soft-copy files that can be viewed on a variety of devices. Attendees may print a hard copy of the files in whatever format best meets their needs and can only use the files under the Pink Elephant Terms of Use.
+
+MULTIPLE OPTIONS FOR HOW YOU CAN ATTEND THIS COURSE
+If you would like more information on any of the options below, please call us at 1-888-273-PINK, email us at info@pinkelephant.com, or ask your questions via our convenient Chat window at the bottom-right-hand corner of this page.
+
+Training Method	Description	Purchase Options
+Self-Paced Online (SPO) 
+(Available May 2024)	Learn at your own pace from your computer, anywhere at any time. Get the FULL course in an e-learning format for 12 months.	If you are an individual:
+Purchase below in the shopping cart.
+If you are looking to train your team:
+
+Purchase a Team SPO Training Pass – purchasing your seats in bulk means volume discounts, which vary depending on how many seats you purchase at once.
+To get a quote, open the Chat window below, or contact info@pinkelephant.com.
+Public, Virtual Web-Based	On specific dates throughout the year; hosted live, online, with our expert instructor.	If you are an individual:
+Purchase below in the shopping cart.
+If you are looking to train your team:
+Purchase a Team Public Training Pass – purchasing your seats in bulk means volume discounts, which vary depending on how many seats you purchase at once.
+To get a quote, open the Chat window below, or contact info@pinkelephant.com.
+Team Training	On dates convenient to you; exclusively for your team, hosted live online or at your location with our expert instructor.	
+Get a quote to train your team – open the Chat window below, or contact info@pinkelephant.com.
+<-------CHUNK-------->
+Configuration Management Specialist
+Quote from a Raving Fan:
+
+“ The training is excellent. This course should be required for any company that will be implementing Configuration Management. The reference materials are very detailed.”
+COURSE OVERVIEW
+A properly managed and implemented configuration management process provides valuable information about the delivery and quality of IT services. Yet, many organizations struggle with the complexity involved in establishing and maintaining this critical service management capability.
+
+This two-day certification course goes beyond establishing a service component repository (SCR) and takes a deep dive into the design, deployment, and management required for a sustainable configuration management process. Based on our consultants’ decades of real-world experience helping IT organizations, this practical course will help you identify critical success factors related to reaching your organizational goals and establish approaches to overcome design, deployment, and ongoing process management issues.
+
+LEARNING OUTCOMES
+Upon the successful completion of this course, you will have the ability to:
+
+Understand industry best practices related to configuration management
+Define and apply data governance and management principles to your configuration management solutions
+Define the differences, relationship, and dependencies between configuration management and IT asset management
+Define and model IT services within a configuration management database
+Understand and apply SCR data modeling and design techniques
+Understand how to design the configuration management process to support and integrate with other key IT management practices such as:
+IT asset management
+Budgeting and costing
+Service level management
+Monitoring and alerting
+Incident and problem management
+Adopt and adapt principles, as well as how to approach configuration management automation and data source federation
+Identify critical configuration management governance and management roles such as service owners, domain owners, and configuration management managers
+WHO SHOULD ATTEND?
+Configuration managers, product and service owners, asset management owners, information and security management roles, business analysts, IT process designers, data architects, IT consultants, IT project managers
+
+PREREQUISITES
+There is no prerequisite for this course, although it is strongly recommended that participants understand basic IT service management concepts.
+
+EXAM & CERTIFICATION
+This course prepares participants for the examination leading to the Configuration Management Specialist certificate, granted by Professional Designations:
+
+The exam is 60 minutes in length and is a 40-question, multiple-choice, closed-book exam
+A mark of 65% (26 correct answers) is required to pass the exam
+You will receive an exam voucher for the web-based exam, to be scheduled following the course.
+Upon completion of this course, you may apply for self-directed learning PDUs through PMI. A letter of attendance is available upon request.
+COURSE E-MATERIALS
+Material for this course will only be provided as downloadable soft-copy files that can be viewed on a variety of devices. Attendees may print a hard copy of the files in whatever format best meets their needs and can use the files under the Pink Elephant Terms of Use.
+
+MULTIPLE OPTIONS FOR HOW YOU CAN ATTEND THIS COURSE
+If you would like more information on any of these options below, please call us at 1-888-273-PINK, email us at info@pinkelephant.com, or ask your questions via our convenient Chat window at the bottom-right-hand corner of this page.
+
+Training Method	Description	Purchase Options
+Self-Paced Online (SPO)	Learn at your own pace from your computer, anywhere at any time. Get the FULL course in an e-learning format for 12 months.	If you are an individual:
+Purchase below in the shopping cart.
+If you are looking to train your team:
+
+Purchase a Team SPO Training Pass – purchasing your seats in bulk means volume discounts, which vary depending on how many seats you purchase at once.
+To get a quote, open the Chat window below, or contact info@pinkelephant.com.
+Public, Virtual Web-Based	On specific dates throughout the year; hosted live, online, with our expert instructor.	If you are an individual:
+Purchase below in the shopping cart.
+If you are looking to train your team:
+Purchase a Team Public Training Pass – purchasing your seats in bulk means volume discounts, which vary depending on how many seats you purchase at once.
+To get a quote, open the Chat window below, or contact info@pinkelephant.com.
+Team Training	On dates convenient to you; exclusively for your team, hosted live online or at your location with our expert instructor.	
+Get a quote to train your team – open the Chat window below, or contact info@pinkelephant.com.
+<-------CHUNK-------->
+Problem Management: Root Cause Analysis Specialist
+Quote from a Raving Fan:
+
+"The class was AMAZING… the most interactive and interesting virtual class I've ever taken. The teacher was fantastic!! I actually was so excited following the course that I asked for a last-minute walk-on to my CIO's leadership meeting that netted some immediate renewed interest in Root Cause Analysis. Great stuff and so easily consumable and applicable."
+COURSE OVERVIEW
+Every organization has problems; however, not all businesses are proactive about preventing problems!
+
+You know what Problem Management is… in theory. But, the real question is how do you do it?
+
+Go beyond theory here! This one-of-a-kind interactive certification course gives you practical guidance that you can immediately start to implement as soon as you get back to work.
+
+The hands-on course prepares you for Professional Designations' certification exam leading to the Root Cause Analysis Specialist Certificate in Problem Management. The knowledge obtained in this certification course will provide you with a practical, structured approach to applying established root cause analysis principles and techniques to identify the sources of recurring incidents and service downtime.
+
+LEARNING OUTCOMES
+Attendees will gain the skills and knowledge they need to increase the efficiency and effectiveness of Problem Management and Incident Management through the application of root cause analysis techniques and principles.
+
+Improving the ability to correctly and competently identify root causes provides a variety of benefits; among them:
+
+A reduction in service downtime/increased availability:
+Reduces loss of user productivity
+Prevents potentially more severe impacts, such as a loss of revenue or profit opportunities
+Supports the achievement of business outcomes
+Participants, through instructor-led discussions, case studies, practical examples, and group exercises, can expect to gain an understanding of the following:
+
+How to improve service availability through the efficient and effective identification of root causes using various problem investigation methods such as Ishikawa diagrams and the 5 Whys
+Which techniques are most useful for different types of problems
+When it's appropriate to undertake root cause analysis
+The barriers to effective problem-solving and how to overcome them
+Information-gathering techniques – asking the right questions
+How to use different data sources for identifying problems
+The critical success factors for successful RCA
+Effectively linking Problem Management and Knowledge Management
+Outlining the factors critical for success regarding root cause analysis
+Providing guidance to peers on key root cause analysis techniques
+Helping to establish guidelines for when Problem Management and root cause analysis should be used
+Designing procedures to ensure the right information is gathered to aid in effective RCA
+Identifying existing data sources that will be useful in identifying root causes
+Identifying tool requirements for improving and supporting Problem Management and Knowledge Management
+WHO SHOULD ATTEND?
+Any individual who is charged with reducing and eliminating incidents and problems in the IT infrastructure.
+
+PREREQUISITES
+There is no prerequisite for this course; however, it is recommended that participants be familiar with general problem management concepts.
+
+EXAM & CERTIFICATION
+A mark of 65% (26 correct answers) is required to pass the exam.
+After completion of this course, you may apply for self-directed learning PDUs through PMI. Letter of attendance is available upon request.
+COURSE E-MATERIALS
+Material for this course will only be provided as downloadable soft-copy files that can be viewed on a variety of devices. Attendees may print a hard copy of the files in whatever format best meets their needs and can only use the files under the Pink Elephant Terms of Use .
+
+MULTIPLE OPTIONS FOR HOW YOU CAN ATTEND THIS COURSE
+If you would like more information on any of these options below, please call us at 1-888-273-PINK, email us at info@pinkelephant.com, or ask your questions via our convenient Chat window at the bottom-right corner of this page.
+
+Training Method	Description	Purchase Options
+Self-Paced Online (SPO) 	Learn at your own pace from your computer, anywhere at any time. Get the FULL course in an e-learning format for 12 months.	If you are an individual:
+Purchase below in the shopping cart.
+If you are looking to train your team:
+
+Purchase a Team SPO Training Pass – purchasing your seats in bulk means volume discounts, which vary depending on how many seats you purchase at once.
+To get a quote, open the Chat window below, or contact info@pinkelephant.com.
+Public, Virtual Web-Based	On specific dates throughout the year; hosted live, online, with our expert instructor.	If you are an individual:
+Purchase below in the shopping cart.
+If you are looking to train your team:
+Purchase a Team Public Training Pass ‐ purchasing your seats in bulk means volume discounts, which vary depending on how many seats you purchase at once.
+To get a quote, open the Chat window below, or contact info@pinkelephant.com.
+Team Training	On dates convenient to you; exclusively for your team, hosted live online or at your location with our expert instructor.	
+Get a quote to train your team – open the Chat window below, or contact info@pinkelephant.com.
+<-------CHUNK-------->
+Service Catalog Specialist
+Quote from a Raving Fan:
+
+"The course I took was extremely informative and valuable. I was able to take the lessons learned about the content and bring them back to develop better strategies and designs in my organization."
+COURSE OVERVIEW
+The Service Catalog plays a crucial role in IT service delivery because it serves as the access point to all products and services offered by IT or other departments. An effective service catalog is a must-have business tool that can help build and nurture a positive relationship between the business units and IT. Another major benefit to building a comprehensive service catalog is a reduction in costs. As products and services are examined and clearly defined to meet the business' needs, this often leads to redesigning processes and restructuring resources that result in the standardization of supply and better operational control.
+
+The savvy IT professional understands that a well-designed and efficiently implemented service catalog can dramatically impact the business-IT relationship by building trust in the capabilities of IT to deliver the right products and services that the business needs in a timely manner at a reasonable cost. The service catalog can also provide a foundation for planning and decision making, improved communication, and as a means for measuring performance.
+
+Pink Elephant’s Service Catalog Specialist certification course takes you beyond theoretical guidance found in other courses to provide a deeper, more specialized, and practical understanding of the Service Catalog. Learn what is needed to define, create, implement, and manage the ongoing processes to realize the full potential of the Service Catalog!
+
+The knowledge and skills this certification supplies can enable you to be a valuable resource to any IT organization.
+
+LEARNING OUTCOMES
+Upon successful completion of the Service Catalog Specialist course, you will be able to:
+
+Explain essential terms for a Service Catalog
+Articulate the three drivers behind the need for a Service Catalog and how they relate to the bigger picture
+Define and structure services
+Identify the factors in designing and organizing the Service Catalog
+Articulate the key roles for a successful Service Catalog
+Explain how the Service Catalog enables various office processes
+List the various technology options available to create, implement, and maintain the Service Catalog
+Identify Service Catalog success factors and metrics
+WHO SHOULD ATTEND?
+This certification course is for individuals who are responsible for defining, creating, implementing, and managing the ongoing processes of a Service Catalog, including Service Level Managers, Quality Managers, IT Managers, and Business Relationship Managers.
+
+PREREQUISITES
+There are no prerequisites for this course.
+
+EXAM & CERTIFICATION
+This course prepares participants for the examination leading to the Service Catalog Specialist certificate, granted by Professional Designations:
+
+The exam is one hour in length and is a multiple-choice, closed book exam.
+You will receive an exam voucher for the web-based exam, to be scheduled following the course.
+After completion of this course, you may apply for self-directed learning PDUs through PMI. Letter of attendance is available upon request.
+COURSE E-MATERIALS
+Material for this course will only be provided as downloadable soft copy files that can be viewed on a variety of devices. Attendees may print a hard copy of the files in whatever format best meets their needs, and can only use the files under the Pink Elephant Terms of Use.
+
+All attendees will be given access to Pink Elephant's learning portal, which contains numerous value-added documents, e-files, and enriched learning materials.
+
+MULTIPLE OPTIONS FOR HOW YOU CAN ATTEND THIS COURSE
+If you would like more information on any of these options below, please call us at 1-888-273-PINK, email us at info@pinkelephant.com, or ask your questions via our convenient Chat window at the bottom-right corner of this page.
+
+Training Method	Description	Purchase Options
+Self-Paced Online (SPO) 	Learn at your own pace from your computer, anywhere at any time. Get the FULL course in an e-learning format for 12 months.	If you are an individual:
+Purchase below in the shopping cart.
+If you are looking to train your team:
+
+Purchase a Team SPO Training Pass – purchasing your seats in bulk means volume discounts, which vary depending on how many seats you purchase at once.
+To get a quote, open the Chat window below, or contact info@pinkelephant.com.
+Public, Virtual Web-Based	On specific dates throughout the year; hosted live, online, with our expert instructor.	If you are an individual:
+Purchase below in the shopping cart.
+If you are looking to train your team:
+Purchase a Team Public Training Pass ‐ purchasing your seats in bulk means volume discounts, which vary depending on how many seats you purchase at once.
+To get a quote, open the Chat window below, or contact info@pinkelephant.com.
+Team Training	On dates convenient to you; exclusively for your team, hosted live online or at your location with our expert instructor.	
+Get a quote to train your team – open the Chat window below, or contact info@pinkelephant.com.
+<-------CHUNK-------->
+Agile Scrum Developer
+AGILE SCRUM OVERVIEW
+The Agile approach has changed the face of software and product development and project management, and in recent years, has also increased demand for professionals with Agile knowledge, skills, and experience.
+
+Scrum is one of the methodologies within Agile and is a must-know for IT practitioners, including those in IT service management and IT operations. Within Agile Scrum there are various roles that are required to execute this approach effectively.
+
+Not familiar with Agile Scrum? Read the recently updated creators’ guide for a very important look of the methodology. Or watch/listen to Pink’s webinar that provides an overview.
+
+To guide IT practitioners on their Agile journey, Pink Elephant’s comprehensive Agile Scrum portfolio of courses provides an all-encompassing look at the Agile framework and role-based certification courses, specific to the roles within Agile.
+
+Pink’s portfolio includes:
+
+Agile Scrum Essentials – Learn the fundamental principles and concepts of both Agile and Scrum. Gain knowledge about Agile Scrum techniques through practical examples that will help you deliver more business value through flexible, adaptive project management.
+Agile Scrum Master – Learn to apply and master Agile Scrum thinking, soft skills, and practices through hands-on, interactive exercises. This certification course will cover all aspects of the Scrum framework through a variety of real-world scenarios and focused practical information related specifically to the Scrum Master.
+Agile Scrum Product Owner – This certification course provides the key concepts, principles, and practices associated with the product owner role. Through practical, hands-on exercises, participants will apply the knowledge gained from the course content, along with their personal experiences, to immediately bring greater value and productivity to the work they accomplish daily.
+Agile Scrum Developer – This certification course will introduce the role and responsibilities of an Agile Scrum developer which includes how developers collaborate with stakeholders, as well as the fundamentals of Agile architecture, test-driven development (TDD), refactoring, and several DevOps practices.
+COURSE OVERVIEW
+Facilitating value creation for customers, users, and other stakeholders is paramount in today’s rapidly changing market, so Agile Scrum is a must-know for IT practitioners, which includes those in IT service management and IT operations. There are various roles within Agile Scrum that are required to execute this methodology effectively, with Agile Scrum developers performing a pivotal role.
+
+This two-day Agile Scrum Developer certification course will provide you with the core concepts and practices of Agile Scrum. It will also introduce you to the role and responsibilities of an Agile Scrum developer, including how developers collaborate with stakeholders. In addition, you will learn the fundamentals of Agile architecture, test-driven development (TDD), refactoring, and several DevOps practices. This course also fully prepares you for the exam, leading to the Agile Scrum Developer certification.
+
+LEARNING OBJECTIVES
+Upon their successful completion of the course, attendees will understand:
+
+The four values and twelve principles of the Agile Manifesto
+The three pillars of empirical process control and Lean thinking as part of Scrum theory
+How developers contribute to product backlog management, including slicing features and sizing the product backlog items
+How a Scrum team collaborates with stakeholders, customers, and users during a sprint and the benefits of these direct interactions
+Continuous integration and how it differs from continuous delivery and continuous deployment
+WHO SHOULD ATTEND?
+Developers whose organizations are adopting Agile Scrum practices or wish to better understand the role of an Agile Scrum developer.
+
+PREREQUISITES
+There are no prerequisites for this course, but we recommend the Agile Scrum Essentials certification course, or equivalent, would be helpful.
+
+EXAM & CERTIFICATION
+The exam is offered through Professional Designations Corp.
+One-hour, closed book
+Consists of 40 multiple-choice questions (a passing score of 65% – 26 correct answers – is required)
+After completion of this course, you may apply for self-directed learning PDUs through PMI. Letter of attendance is available upon request.
+COURSE E-MATERIALS
+Material for this course will only be provided as downloadable soft-copy files that can be viewed on a variety of devices. Attendees may print a hard copy of the files in whatever format best meets their needs and can only use the files under the Pink Elephant Terms of Use.
+
+MULTIPLE OPTIONS FOR HOW YOU CAN ATTEND THIS COURSE
+If you would like more information on any of the options below, please call us at 1-888-273-PINK, email us at info@pinkelephant.com, or ask your questions via our convenient Chat window at the bottom-right corner of this page.
+
+Training Method	Description	Purchase Options
+Self-Paced Online (SPO) 	Learn at your own pace from your computer, anywhere at any time. Get the FULL course in an e-learning format for 12 months.	If you are an individual:
+Purchase below in the shopping cart.
+If you are looking to train your team:
+
+Purchase a Team SPO Training Pass – purchasing your seats in bulk means volume discounts, which vary depending on how many seats you purchase at once.
+To get a quote, open the Chat window below, or contact info@pinkelephant.com.
+Team Training	On dates convenient to you; exclusively for your team, hosted live online or at your location with our expert instructor.	
+Get a quote to train your team – open the Chat window below, or contact info@pinkelephant.com.
+<-------CHUNK-------->
+Agile Scrum Essentials
+AGILE SCRUM OVERVIEW
+The Agile approach has changed the face of software and product development and project management, and in recent years, has also increased demand for professionals with Agile knowledge, skills, and experience.
+
+Scrum is one of the methodologies within Agile and is a must-know for IT practitioners, including those in IT service management and IT operations. Within Agile Scrum there are various roles that are required to execute this approach effectively.
+
+Not familiar with Agile Scrum? Read the recently updated creators’ guide for a very important look of the methodology. Or watch/listen to Pink’s webinar that provides an overview.
+
+To guide IT practitioners on their Agile journey, Pink Elephant’s comprehensive Agile Scrum portfolio of courses provides an all-encompassing look at the Agile framework and role-based certification courses, specific to the roles within Agile.
+
+Pink’s portfolio includes:
+
+Agile Scrum Essentials – Learn the fundamental principles and concepts of both Agile and Scrum. Gain knowledge about Agile Scrum techniques, through practical examples that will help you deliver more business value through flexible, adaptive project management.
+Agile Scrum Master – Learn to apply and master Agile Scrum thinking, soft skills, and practices through hands-on, interactive exercises. This certification course will cover all aspects of the Scrum framework through a variety of real-world scenarios and focused practical information related specifically to the Scrum Master.
+Agile Scrum Product Owner – This brand-new certification course provides all the core concepts, principles, and practices associated with the product owner role. Through practical, hands-on exercises, participants will apply the knowledge gained from the course content, along with their personal experiences, to immediately bring greater value and productivity to the work they accomplish daily.
+Agile Scrum Developer – This certification course will introduce the role and responsibilities of an Agile Scrum developer which includes how developers collaborate with stakeholders, as well as the fundamentals of Agile architecture, test-driven development (TDD), refactoring, and several DevOps practices.
+THE integratedITSM™ DESIGNATION SCHEME
+This certification course is part of Professional Designations’ new designation scheme for integratedITSM™ and is required to achieve the following designations:
+
+integratedITSM™ Champion
+integratedITSM™ Professional
+Click on the graphic below to enlarge.
+
+
+
+
+COURSE OVERVIEW
+This 2-day course provides the essential knowledge needed by IT professionals in Agile methodologies and Scrum practices. It focuses on the fundamental principles and concepts of both Agile and Scrum. This course will prepare you for the exam leading to the Agile Scrum Essentials certification.
+
+To stay competitive today, more than ever, businesses must be flexible, keep costs low, and delivery cycles short. Companies that have successfully adopted Agile Scrum processes have reaped the benefits of decreased costs, reduced risk, and the encouragement of innovation within the organization. Agile offers a flexible, iterative project-management style that promotes continuous improvement and increased product quality. Scrum, which is a lightweight framework and the most popular Agile methodology, provides guidelines and other tools to help teams structure and manage their work. Together, these processes ensure the effective and efficient management of projects.
+
+The Agile Scrum Essentials course has been designed from the ground up, based on customer feedback, to provide you with everything you need to start applying the Agile Scrum approach to your projects.
+
+WHY CHOOSE PINK
+No other Agile Scrum course offers you:
+
+A streamlined and intuitive course structure that brings Agile Scrum thinking to life:
+You will take part in practical, hands-on activities so you gain crucial knowledge by directly applying concepts, not just listening to theory.
+Other courses present hundreds of slides of models and definitions but with this course Agile Scrum concepts are presented in a simple, yet focused structure so you can immediately start applying best practices more effectively in your organization.
+Actions and approaches to create more value for your organization:
+You will learn how Agile Scrum techniques can help you deliver more value to your business to meet your strategic goals. This course places greater emphasis on the three characteristics of value that applying an Agile Scrum approach can contribute to – improving quality, decreasing costs, and increasing speed.
+Understanding the five core Scrum values is crucial to the successful application of Scrum. You will learn how these can enable your teams to work successfully:
+Commitment
+Focus
+Openness
+Respect
+Courage
+LEARNING OUTCOMES
+Upon the successful completion of this course, you will understand:
+
+The definition and purpose of Agile
+The three pillars of Scrum: inspection, adaptation, and transparency
+The five Scrum values: commitment, focus, openness, respect, and courage
+The accountabilities of effective Scrum Masters, product owners, and developers
+The purposes of different events, artifacts, and rules in Scrum
+How multilevel planning can help your team develop long-term goals and create more realistic strategies to achieve those goals
+How to identify the attributes of the product backlog and understand how it can evolve as your product and environment changes
+The purpose and steps involved in Scrum events such as product backlog refinement, sprint planning, execution, daily Scrum, review, and retrospective
+WHO SHOULD ATTEND?
+This course is applicable to any IT professionals with a need to understand how to achieve and maintain a highly effective approach to project management.
+
+PREREQUISITES
+No prerequisites are required.
+
+EXAM & CERTIFICATION
+The exam is offered through Professional Designations Corp.
+One-hour, closed book
+Consists of 40 multiple-choice questions (a passing score of 65% is required)
+After completion of this course, you may apply for self-directed learning PDUs through PMI. Letter of attendance is available upon request.
+COURSE E-MATERIALS
+Material for this course will only be provided as downloadable soft-copy files that can be viewed on a variety of devices. Attendees may print a hard copy of the files in whatever format best meets their needs and can only use the files under the Pink Elephant Terms of Use.
+
+MULTIPLE OPTIONS FOR HOW YOU CAN ATTEND THIS COURSE
+If you would like more information on any of these options below, please call us at 1-888-273-PINK, email us at info@pinkelephant.com, or ask your questions via our convenient Chat window at the bottom-right corner of this page.
+
+Training Method	Description	Purchase Options
+Self-Paced Online (SPO)	Learn at your own pace from your computer, anywhere at any time. Get the FULL course in an e-learning format for 12 months.	If you are an individual:
+Purchase below in the shopping cart.
+If you are looking to train your team:
+
+Purchase a Team SPO Training Pass – purchasing your seats in bulk means volume discounts, which vary depending on how many seats you purchase at once.
+To get a quote, open the Chat window below, or contact info@pinkelephant.com.
+Public, Virtual Web-Based	On specific dates throughout the year; hosted live, online, with our expert instructor.	If you are an individual:
+Purchase below in the shopping cart.
+If you are looking to train your team:
+Purchase a Team Public Training Pass – purchasing your seats in bulk means volume discounts, which vary depending on how many seats you purchase at once.
+To get a quote, open the Chat window below, or contact info@pinkelephant.com.
+Team Training	On dates convenient to you; exclusively for your team, hosted live online or at your location with our expert instructor.	
+Get a quote to train your team – open the Chat window below, or contact info@pinkelephant.com.
+<-------CHUNK-------->
+Agile Scrum Master
+AGILE SCRUM OVERVIEW
+The Agile approach has changed the face of software and product development and project management, and in recent years, has also increased demand for professionals with Agile knowledge, skills, and experience.
+
+Scrum is one of the methodologies within Agile and is a must-know for IT practitioners, including those in IT service management and IT operations. Within Agile Scrum there are various roles that are required to execute this approach effectively.
+
+Not familiar with Agile Scrum? Read the recently updated creators’ guide for a very important look of the methodology. Or watch/listen to Pink’s webinar that provides an overview.
+
+To guide IT practitioners on their Agile journey, Pink Elephant’s comprehensive Agile Scrum portfolio of courses provides an all-encompassing look at the Agile framework and role-based certification courses, specific to the roles within Agile.
+
+Pink’s portfolio includes:
+
+Agile Scrum Essentials – Learn the fundamental principles and concepts of both Agile and Scrum. Gain knowledge about Agile Scrum techniques, through practical examples that will help you deliver more business value through flexible, adaptive project management.
+Agile Scrum Master – Learn to apply and master Agile Scrum thinking, soft skills, and practices through hands-on, interactive exercises. This certification course will cover all aspects of the Scrum framework through a variety of real-world scenarios and focused practical information related specifically to the Scrum Master.
+Agile Scrum Product Owner – This brand-new certification course provides all the core concepts, principles, and practices associated with the product owner role. Through practical, hands-on exercises, participants will apply the knowledge gained from the course content, along with their personal experiences, to immediately bring greater value and productivity to the work they accomplish daily.
+Agile Scrum Developer – This certification course will introduce the role and responsibilities of an Agile Scrum developer which includes how developers collaborate with stakeholders, as well as the fundamentals of Agile architecture, test-driven development (TDD), refactoring, and several DevOps practices.
+COURSE OVERVIEW
+This two-day course will cover all aspects of the Scrum framework through a variety of focused practical information related specifically to the Scrum Master.
+
+The role of Scrum Master is crucial to ensuring a proper Scrum process is maintained throughout a project. A Scrum Master certification demonstrates a deep understanding of Scrum best practices and provides a level of expertise that goes beyond a typical team leader or project manager.
+
+As you go through Pink Elephant’s training, you will gain the must-have skills to become a certified Scrum Master through our unique combination of storytelling, and practical learning based on the real-life challenges that Scrum Masters face. The course is designed at an intermediate level, supplying the knowledge and core activities associated with the Agile Scrum Master role.
+
+WHY CHOOSE PINK
+With an emphasis on real-world application and practical knowledge, Pink Elephant’s Agile Scrum Master course provides the necessary skills to help you apply Agile thinking and Scrum methodologies to your projects.
+We offer a streamlined and intuitive course structure that brings Agile Scrum thinking to life and is delivered through hands-on, interactive exercises.
+We have 25 years’ experience in delivering knowledge as well as sharing best practices on subjects such as Organizational Change Management, Lean IT, and DevOps – all useful assets in the Scrum Master toolkit.
+Throughout this course, you will learn about how Scrum Masters have been successful in a variety of IT organizations.
+LEARNING OUTCOMES
+Upon the successful completion of this course, you will understand:
+
+The true extent of what it means to think and act in an Agile way
+The mastery of the Scrum framework centered around the integration of roles, events, and Scrum artifacts, including and supporting the product backlog and sprint backlog
+The many soft skills necessary for the Scrum Master, such as servant leadership, facilitation, coaching and mentoring, problem solving, and removing impediments
+The key skills related to visual management for increasing transparency, inspection, and adaptation for success with your projects
+The importance of team dynamics, self-organizing, team building, and virtual teams
+The most important skills for successful Scrum Masters that are applied through different Scrum events from initial planning to the final retrospective
+The crucial strategies for scaling Scrum projects with multiple teams and complex products
+WHO SHOULD ATTEND?
+This course is applicable to anyone working in the fields of IT and project management, particularly those leading projects and development efforts, as well as sponsors looking to understand and introduce an Agile culture.
+
+Job titles include:
+
+Project Managers
+Business Analysts
+Product Managers
+Product Owners
+UX or UI Designers
+Software Developers
+Software Engineers
+Quality Assurance Professionals
+PREREQUISITES
+There are no prerequisites for this course, though a basic understanding of Agile and Scrum is recommended.
+
+EXAM & CERTIFICATION
+The exam is offered through Professional Designations Corp.
+One-hour, closed book
+Consists of 40 multiple-choice questions (a passing score of 65% – 26 correct answers – is required)
+After completion of this course, you may apply for self-directed learning PDUs through PMI. Letter of attendance is available upon request.
+COURSE E-MATERIALS
+Material for this course will only be provided as downloadable soft-copy files that can be viewed on a variety of devices. Attendees may print a hard copy of the files in whatever format best meets their needs and can only use the files under the Pink Elephant Terms of Use.
+
+MULTIPLE OPTIONS FOR HOW YOU CAN ATTEND THIS COURSE
+If you would like more information on any of these options below, please call us at 1-888-273-PINK, email us at info@pinkelephant.com, or ask your questions via our convenient Chat window at the bottom-right corner of this page.
+
+Training Method	Description	Purchase Options
+Self-Paced Online (SPO)
+Learn at your own pace from your computer, anywhere at any time. Get the FULL course in an e-learning format for 12 months.	If you are an individual:
+Purchase below in the shopping cart.
+If you are looking to train your team:
+
+Purchase a Team SPO Training Pass – purchasing your seats in bulk means volume discounts, which vary depending on how many seats you purchase at once.
+To get a quote, open the Chat window below, or contact info@pinkelephant.com.
+Public, Virtual Web-Based	On specific dates throughout the year; hosted live, online, with our expert instructor.	If you are an individual:
+Purchase below in the shopping cart.
+If you are looking to train your team:
+Purchase a Team Public Training Pass – purchasing your seats in bulk means volume discounts, which vary depending on how many seats you purchase at once.
+To get a quote, open the Chat window below, or contact info@pinkelephant.com.
+Team Training	On dates convenient to you; exclusively for your team, hosted live online or at your location with our expert instructor.	
+Get a quote to train your team – open the Chat window below, or contact info@pinkelephant.com.
+<-------CHUNK-------->
+Agile Scrum Product Owner
+AGILE SCRUM OVERVIEW
+The Agile approach has changed the face of software and product development and project management, and in recent years, has also increased demand for professionals with Agile knowledge, skills, and experience.
+
+Scrum is one of the methodologies within Agile and is a must-know for IT practitioners, including those in IT service management and IT operations. Within Agile Scrum there are various roles that are required to execute this approach effectively.
+
+Not familiar with Agile Scrum? Read the recently updated creators’ guide for a very important look of the methodology. Or watch/listen to Pink’s webinar that provides an overview.
+
+To guide IT practitioners on their Agile journey, Pink Elephant’s comprehensive Agile Scrum portfolio of courses provides an all-encompassing look at the Agile framework and role-based certification courses, specific to the roles within Agile.
+
+Pink’s portfolio includes:
+
+Agile Scrum Essentials – Learn the fundamental principles and concepts of both Agile and Scrum. Gain knowledge about Agile Scrum techniques, through practical examples that will help you deliver more business value through flexible, adaptive project management.
+Agile Scrum Master – Learn to apply and master Agile Scrum thinking, soft skills, and practices through hands-on, interactive exercises. This certification course will cover all aspects of the Scrum framework through a variety of real-world scenarios and focused practical information related specifically to the Scrum Master.
+Agile Scrum Product Owner – This certification course provides the key concepts, principles, and practices associated with the product owner role. Through practical, hands-on exercises, participants will apply the knowledge gained from the course content, along with their personal experiences, to immediately bring greater value and productivity to the work they accomplish daily.
+Agile Scrum Developer – This certification course will introduce the role and responsibilities of an Agile Scrum developer which includes how developers collaborate with stakeholders, as well as the fundamentals of Agile architecture, test-driven development (TDD), refactoring, and several DevOps practices.
+COURSE OVERVIEW
+In addition to the Scrum Master, another key role on the Scrum team is the Product Owner, who provides the business vision and operational requirements for the service and/or product. The Product Owner plays a vital part in the Scrum team by ensuring:
+
+Stories are defined to accurately describe user needs
+Team members understand the value of the work to be done
+The Team backlog of work is carefully prioritized
+The “Definition of Done” is clear and well understood
+The ‘acceptance criteria’ is clear and agreed-upon
+A basic understanding of how to scale Scrum
+This two-day Agile Scrum Product Owner certification course will provide you with the key concepts and practices of both Agile and Scrum. It will also equip you with knowledge of the fundamental Product Owner accountabilities and responsibilities, as well as prepare you to effectively manage the product backlog.
+
+Throughout this course, you will learn about the core concepts and practices intrinsic to being an Agile Scrum Product Owner. This course also fully prepares you for the exam leading to the Agile Scrum Product Owner certification.
+
+LEARNING OUTCOMES
+Upon the successful completion of this course, you will understand:
+
+Basics of Agile project management
+Basics of the Scrum framework
+What it means to adopt value-driven product planning
+Fundamentals of the product owner role
+What it means to apply effective product backlog management, and why this is important
+The basics of scaling Scrum
+WHY CHOOSE PINK
+Pink Elephant’s Agile Product Owner certification course is the only course that offers:
+
+Practical hands-on exercises in each module so students can view and assess their own existing products or projects through an Agile lens.
+Interactive group exercises to promote collaboration so participants can share their own experiences, challenges and solutions with their peers while applying the course content.
+A comprehensive self-assessment so course participants can assess their own, or their organization’s current skills and capabilities relevant to the Product Owner role to help determine strengths and weaknesses and to identify development/improvement opportunities.
+A highly focused, in-depth approach to describing how the Product Owner role fits within the bigger picture of Agile and Scrum along with other roles in IT.
+Course content featuring the most relevant and up-to-date information, including the most recent updates to the 2020 Scrum Guide .
+WHO SHOULD ATTEND?
+This course is designed for anyone in any part of the organization whose focus in on maximizing the delivery of value, finding adaptive solutions to complex problems, and increasing customer satisfaction.
+
+This includes, but is not limited to:
+
+Product owners
+Product managers
+Project managers
+Continuous improvement directors/mangers
+IT managers/directors
+PREREQUISITES
+There are no prerequisites for this course, but we recommend the Agile Scrum Essentials certification course, or equivalent, would be helpful.
+
+EXAM & CERTIFICATION
+The exam is offered through Professional Designations Corp.
+One-hour, closed book
+Consists of 40 multiple-choice questions (a passing score of 65% – 26 correct answers – is required)
+After completion of this course, you may apply for self-directed learning PDUs through PMI. Letter of attendance is available upon request.
+COURSE E-MATERIALS
+Material for this course will only be provided as downloadable soft-copy files that can be viewed on a variety of devices. Attendees may print a hard copy of the files in whatever format best meets their needs and can only use the files under the Pink Elephant Terms of Use.
+
+MULTIPLE OPTIONS FOR HOW YOU CAN ATTEND THIS COURSE
+If you would like more information on any of these options below, please call us at 1-888-273-PINK, email us at info@pinkelephant.com, or ask your questions via our convenient Chat window at the bottom-right corner of this page.
+
+Training Method	Description	Purchase Options
+Self-Paced Online (SPO) 
+Learn at your own pace from your computer, anywhere at any time. Get the FULL course in an e-learning format for 12 months.	If you are an individual:
+Purchase below in the shopping cart.
+If you are looking to train your team:
+
+Purchase a Team SPO Training Pass – purchasing your seats in bulk means volume discounts, which vary depending on how many seats you purchase at once.
+To get a quote, open the Chat window below, or contact info@pinkelephant.com.
+Team Training	On dates convenient to you; exclusively for your team, hosted live online or at your location with our expert instructor.	
+Get a quote to train your team – open the Chat window below, or contact info@pinkelephant.com.
+<-------CHUNK-------->
+DevOps Engineer
+DEVOPS OVERVIEW
+DevOps is the convergence of existing IT best practices from ITSM, Lean, Agile, and Scrum into a development and operations approach that supports automation and continuous delivery. Described as more of a mindset than a framework, DevOps aims to blur the lines between the existing IT siloes to create a more collaborative relationship between Dev and Ops allowing organizations to create greater business value with more streamlined processes, faster deployments, and more successful releases.
+
+To guide IT practitioners on their DevOps journey, Pink Elephant offers a comprehensive DevOps portfolio of courses that provides an all-encompassing look at the DevOps framework and role-based certification courses, specific to the roles within DevOps.
+
+Pink’s DevOps portfolio includes:
+
+DevOps Essentials – This certification course, provides the foundational knowledge and a new and unique perspective of DevOps through the ‘Full Stack’ of culture, practices, and automation.
+DevOps Leadership – The DevOps Leadership certification course builds on the learnings from the DevOps Essentials™ certification course with a leadership perspective on the challenges inherent in implementing DevOps. These challenges, first introduced in the ‘Full Stack’ approach, span the creation and acceptance of new organizational culture, new principles, and processes, and moving the enterprise toward a new model for success.
+DevOps Engineer – The DevOps Engineer certification course provides detailed knowledge about the key skills and tools necessary for today’s DevOps Engineer. 
+COURSE OVERVIEW
+DevOps Engineers and DevOps teams make sure that everything is geared toward releasing updates as efficiently as possible. Highly effective DevOps is about collaboration, effective communication, removing barriers and introducing automation wherever possible. The role of DevOps Engineer is a critical success factor, accomplished by establishing a culture of experimentation and an environment of learning that enables the building, testing and release of software to happen more rapidly, frequently, and reliably.
+
+As enterprise after enterprise moves toward DevOps, it is essential that the traditional specialists in development and operations expand their skillset into the role of a DevOps Engineer. Simply put, an organization cannot succeed at DevOps without talented DevOps Engineers.
+
+The DevOps Engineer
+
+A key role in DevOps is the DevOps Engineer, who manages the output of software development and introduces processes, tools, and methodologies to balance needs and requirements throughout the entire deployment pipeline.
+
+This three-day DevOps Engineer certification course provides knowledge about the essential skills and tools necessary for today’s DevOps Engineer.
+
+LEARNING OUTCOMES
+Understand the key characteristics and essential skills of a DevOps Engineer.
+Learn about the true impact of technical debt, unplanned work, and IT toil on business value delivery.
+Understand the architecture and functionality of the most popular DevOps tools in today’s deployment pipelines.
+Learn about the capabilities of cloud computing and, specifically, the public cloud computing platforms.
+Understand Agile versus waterfall project management principles and how they can make or break DevOps success.
+Learn about the three ways and the five ideals of DevOps.
+Understand how microservices are a key factor in the success of a DevOps initiative.
+Learn about infrastructure as code and its impact on configuration management.
+Understand the security basics necessary for a DevOps engineer.
+WHY CHOOSE PINK ELEPHANT
+What makes Pink’s DevOps approach different? We offer:
+
+The innovative 'Full Stack' approach to DevOps
+15 essential DevOps practices to drive business value
+A DevOps assessment tool to determine where you are in your DevOps journey
+We focus on multiple roles within DevOps
+WHO SHOULD ATTEND?
+This course is designed for traditional specialists in development and operations who want to expand their skillset into the role of a DevOps engineer. This includes, but is not limited to:
+
+DevOps engineers
+IT Architects
+Operations Analysts
+Change Managers
+Agile Scrum Developers
+SysOps engineers
+IT Team Leaders
+Software Developers
+Sysadmins and IT Managers
+Organizational Change Specialists
+PREREQUISITES
+There are no prerequisites for this course; however, it is recommended to have a good knowledge of DevOps concepts, which can be gained by taking Pink Elephant’s “DevOps Essentials” certification course or equivalent.
+
+EXAM & CERTIFICATION
+The exam is offered through Professional Designations Corp.
+One-hour, closed book
+40 multiple-choice questions (a passing score of 65% – 26 correct answers – is required)
+On completion of this course, you may apply for self-directed learning PDUs through PMI. A letter of attendance is available upon request.
+COURSE E-MATERIALS
+Material for this course will be provided under Pink Elephant’s Terms of Use as downloadable soft-copy files that can be viewed on a variety of devices. You may print a hard copy of the files in whatever format best meets your needs.
+
+MULTIPLE OPTIONS FOR HOW YOU CAN ATTEND THIS COURSE
+If you would like more information on any of these options below, please call us at 1-888-273-PINK, email us at info@pinkelephant.com, or ask your questions via our convenient Chat window at the bottom-right corner of this page.
+
+Training Method	Description	Purchase Options
+Self-Paced Online (SPO) 
+Learn at your own pace from your computer, anywhere at any time. Get the FULL course in an e-learning format for 12 months.	If you are an individual:
+Purchase below in the shopping cart.
+If you are looking to train your team:
+
+Purchase a Team SPO Training Pass – purchasing your seats in bulk means volume discounts, which vary depending on how many seats you purchase at once.
+To get a quote, open the Chat window below, or contact info@pinkelephant.com.
+Public, Virtual Web-Based	On specific dates through the year; hosted live, online, with our expert instructor.	If you are an individual:
+Purchase below in the shopping cart.
+If you are looking to train your team:
+Purchase a Team Public Training Pass – purchasing your seats in bulk means volume discounts, which vary depending on how many seats you purchase at once.
+To get a quote, open the Chat window below, or contact info@pinkelephant.com.
+Team Training	On dates convenient to you; exclusively for your team, hosted live online or at your location with our expert instructor.	
+Get a quote to train your team – open the Chat window below, or contact info@pinkelephant.com.
+<-------CHUNK-------->
+DevOps Essentials
+Quote from a Raving Fan:
+
+"This course truly paints the whole picture of DevOps. Fascinating and inspiring."
+DEVOPS OVERVIEW
+DevOps is the convergence of existing IT best practices from ITSM, Lean, Agile, and Scrum into a development and operations approach that supports automation and continuous delivery. Described as more of a mindset than a framework, DevOps aims to blur the lines between the existing IT siloes to create a more collaborative relationship between Dev and Ops allowing organizations to create greater business value with more streamlined processes, faster deployments, and more successful releases.
+
+To guide IT practitioners on their DevOps journey, Pink Elephant offers a comprehensive DevOps portfolio of courses that provides an all-encompassing look at the DevOps framework and role-based certification courses, specific to the roles within DevOps.
+
+Pink's DevOps portfolio includes:
+
+DevOps Essentials – This certification course, provides the foundational knowledge and a new and unique perspective of DevOps through the 'Full Stack' of culture, practices, and automation.
+DevOps Leadership – The DevOps Leadership certification course builds on the learnings from the DevOps Essentials™ certification course with a leadership perspective on the challenges inherent in implementing DevOps. These challenges, first introduced in the 'Full Stack' approach, span the creation and acceptance of new organizational culture, new principles, and processes, and moving the enterprise toward a new model for success.
+NEW! DevOps Engineer – The DevOps Engineer certification course provides detailed knowledge about the key skills and tools necessary for today's DevOps Engineer.
+COURSE OVERVIEW
+This certification course, designed by Pink Elephant, provides a new and unique perspective of DevOps through the ‘Full Stack’ of culture, practices and automation.
+
+This is the most comprehensive, content-rich DevOps certification course in the industry! And, it includes a DevOps assessment .
+
+What is the ‘Full Stack’ approach?
+
+As a major game changer in IT, the DevOps revolution has brought about new practices in the Application Development and Systems Operations areas that can help your organization deliver IT services better, faster and cheaper. This course identifies the three critical success factors that make up the ‘Full Stack’ approach, including:
+
+Changing culture
+Improving practices and processes
+Leveraging automation technologies
+When you return to work, you will know about 15 very specific practices that are essential to delivering effective DevOps. And, you will have the results of your assessment that will be the starting point of your action plan for continuous improvement.
+
+LEARNING OUTCOMES
+Upon successful completion of DevOps Essentials, you will be able to articulate the benefits of implementing the Full Stack of DevOps culture, practices and automation at your organization to enable improved quality, higher speed and a reduction in costs, by meeting a progressive set of expected outcomes.
+
+Describe what DevOps is, and what it isn’t
+Explain the approach of thinking about the critical success factors of DevOps as a ‘Full Stack’ of culture, practices and automation to determine what it means for your organization
+Explain the need for DevOps as a solution to problems facing organizations today
+Summarize how the need for more value from IT drives the business towards DevOps
+Summarize the cultural, structural and technological barriers that IT faces when attempting to deliver services at the right quality, speed and cost and why challenges are faced when implementing DevOps in today’s organizations
+Explain the basic concept, principles and scope of DevOps, including ‘The Three Ways’ and accelerators such as Lean and Agile that supported the evolution and emergence of the movement
+Summarize the key cultural values, Service Management, Project Management and Software Development processes and technologies that enable DevOps
+List the ways in which DevOps transforms culture and better organizes people to solve the cultural and structural challenges facing IT
+Explain the way that DevOps structures teams and people within an organization in support of its culture, processes and technologies
+Describe how DevOps practices transform processes, utilizing Lean, Agile and ITSM accelerators to solve the process design problems facing IT
+List the ways in which DevOps transforms and organizes technology through automation and new tools to solve the technological problems facing IT
+Learn 15 very specific practices related to culture, processes and automation that are must-haves for effective delivery of DevOps
+WHO SHOULD ATTEND?
+This essentials level course is designed for anyone in IT Service Management, Operations or Software Development seeking to understand how a DevOps approach will help your organization deliver more business value.
+
+PREREQUISITES
+There are no prerequisites for this course.
+
+EXAM & CERTIFICATION
+This course prepares participants for the examination leading to the DevOps Essentials certificate, granted by Professional Designations:
+
+Exam is 1 hour; multiple-choice; closed book
+You will receive an exam voucher for the web-based exam, to be scheduled after the course
+COURSE E-MATERIALS
+Material for this course will only be provided as downloadable soft copy files that can be viewed on a variety of devices. Attendees may print a hard copy of the files in whatever format best meets their needs, and can use the files under the Pink Elephant Terms of Use.
+
+All attendees are given access to Pink Elephant’s learning portal, which contains numerous value-added documents, e-files and enriching learning materials.
+
+MULTIPLE OPTIONS FOR HOW YOU CAN ATTEND THIS COURSE
+If you would like more information on any of these options below, please call us at 1-888-273-PINK, email us at info@pinkelephant.com, or ask your questions via our convenient Chat window at the bottom-right corner of this page.
+
+Training Method	Description	Purchase Options
+Self-Paced Online (SPO) 
+Learn at your own pace from your computer, anywhere at any time. Get the FULL course in an e-learning format for 12 months.	If you are an individual:
+Purchase below in the shopping cart.
+If you are looking to train your team:
+
+Purchase a Team SPO Training Pass – purchasing your seats in bulk means volume discounts, which vary depending on how many seats you purchase at once.
+To get a quote, open the Chat window below, or contact info@pinkelephant.com.
+Team Training	On dates convenient to you; exclusively for your team, hosted live online or at your location with our expert instructor.	
+Get a quote to train your team – open the Chat window below, or contact info@pinkelephant.com.
+<-------CHUNK-------->
+DevSecOps Engineer
+With cyberattacks and fraud a reality for many IT organizations, poor security can devastate an organization’s data, products, relationships, and reputation. In addition, a lack of threat awareness – especially when deploying new services – can have a debilitating impact on costs. These risks can be mitigated by incorporating security practices into each stage of DevOps that ensure everyone bears responsibility for security.
+
+COURSE OVERVIEW
+This DevSecOps Engineer certification course concentrates on typical security risks and the effective practices that can be put in place to diminish and/or thwart those threats. Topics to be addressed include roles and responsibilities, tools, and cultural factors, as well as the differences between traditional security approaches and DevSecOps, how to embed the DevSecOps approach into the normal everyday workflow, and how to get started with DevSecOps.
+
+LEARNING OUTCOMES
+Upon successful completion of DevSecOps Engineer certification course, you will understand:
+
+How the three layers of DevSecOps can reduce technical debt, as well as how to maintain the success of a DevSecOps program through measurement and adjustment
+The key aspects of information security that include confidentiality, integrity, and availability
+The types of security threats and attacks related to the key aspects of information security
+The continual nature of security embedded within DevOps
+WHO SHOULD ATTEND?
+Anyone in software development or IT operations roles using the DevOps approach.
+
+PREREQUISITES
+There are no prerequisites for this certification course; however, it is recommended to take the DevOps Essentials certification course or an equivalent.
+
+EXAM & CERTIFICATION
+The exam is offered through Professional Designations Corp (PDC) and, to obtain certification, participants must write and pass the exam as follows. The exam is included in the course fee and will be ordered for you by Pink Elephant:
+
+Duration: 60 minutes
+Questions: 40 multiple-choice questions; closed book
+Pass mark: 65% (26 questions correct out of 40 questions)
+Supervised: Yes
+Format: Online
+COURSE E-MATERIALS
+Material for this course will only be provided as downloadable soft-copy files that can be viewed on a variety of devices. Participants may print a hard copy of the files in whatever format best meets their needs and can only use the files under the Pink Elephant Terms of Use .
+
+MULTIPLE OPTIONS FOR HOW YOU CAN ATTEND THIS COURSE
+If you would like more information on any of these options below, please call us at 1-888-273-PINK, email us at info@pinkelephant.com, or ask your questions via our convenient Chat window at the bottom-right corner of this page.
+
+Training Method	Description	Purchase Options
+Self-Paced Online (SPO) 
+Learn at your own pace from your computer, anywhere at any time. Get the FULL course in an e-learning format for 12 months.	If you are an individual:
+Purchase below in the shopping cart.
+If you are looking to train your team:
+
+Purchase a Team SPO Training Pass – purchasing your seats in bulk means volume discounts, which vary depending on how many seats you purchase at once.
+To get a quote, open the Chat window below, or contact info@pinkelephant.com.
+Team Training	On dates convenient to you; exclusively for your team, hosted live online or at your location with our expert instructor.	
+Get a quote to train your team – open the Chat window below or contact info@pinkelephant.com.
+<-------CHUNK-------->
+Site Reliability Engineer
+To keep up with technological advances and maintain a competitive advantage, many organizations are increasingly moving from a traditional IT approach to one that supports cloud-native services. This requires a shift from departmental silos to creating a resilient infrastructure that’s facilitated by DevOps principles and supported by a new engineering culture that improves service reliability.
+
+The Site Reliability Engineer (SRE) role allows IT professionals to bridge the gaps between platform design and developmental and operational execution by applying SRE best practices.
+
+COURSE OVERVIEW
+This intermediate Site Reliability Engineer certification course provides fundamental principles and insights on the practical aspects of building, sustaining, and improving the SRE practice by mixing theory and hands-on interactive exercises to become certified and knowledgeable SRE and/or DevOps professionals.
+
+LEARNING OBJECTIVES
+Upon successful completion of the course, participants will understand:
+
+The concepts of site reliability engineering, its origins, and how SRE relates to DevOps, as well as have the knowledge to explain the principles and practices that underlie the goals of creating scalable and highly reliable IT services
+The concepts of silos and DevOps, as well as have the knowledge to explain SRE team topologies, the typical qualities and abilities of the site reliability engineer, and methods to further improve the SRE practice
+Quantitative metrics; matching service levels to customer expectations
+The relationship between SLA, SLO, and SLI
+The need for psychological safety, escalation management, the incident command system, and a blameless culture to respond effectively to incidents
+Continuous monitoring, observability, proactive planning for disasters, the defense-in-depth strategy, and how to increase system resilience by using chaos engineering experiments
+WHO SHOULD ATTEND?
+This certification is suitable for all who are interested in site reliability engineering.
+
+PREREQUISITES
+There are no prerequisites for this certification course; however, it is recommended to take the DevOps Essentials certification course or an equivalent.
+
+EXAM & CERTIFICATION
+The exam is offered through Professional Designations Corp (PDC) and to obtain certification, participants must write and pass the exam as follows. The exam is included in the course fee and will be ordered for you by Pink Elephant.
+
+Duration: 60 minutes
+Questions: 40 multiple-choice questions; closed book
+Pass Mark: 65% (26 questions correct out of 40 questions)
+Supervised: Yes
+Format: Online
+COURSE E-MATERIALS
+Material for this course will only be provided as downloadable soft-copy files that can be viewed on a variety of devices. Participants may print a hard copy of the files in whatever format best meets their needs and can only use the files under the Pink Elephant Terms of Use.
+
+MULTIPLE OPTIONS FOR HOW YOU CAN ATTEND THIS COURSE
+If you would like more information on any of the options below, please call us at 1-888-273-PINK, email us at info@pinkelephant.com, or ask your questions via our convenient Chat window at the bottom-right corner of this page.
+
+Training Method	Description	Purchase Options
+Self-Paced Online (SPO) 
+Learn at your own pace from your computer, anywhere at any time. Get the FULL course in an e-learning format for 12 months.	If you are an individual:
+Purchase below in the shopping cart.
+If you are looking to train your team:
+
+Purchase a Team SPO Training Pass – purchasing your seats in bulk means volume discounts, which vary depending on how many seats you purchase at once.
+To get a quote, open the Chat window below, or contact info@pinkelephant.com.
+Team Training	On dates convenient to you; exclusively for your team, hosted live online or at your location with our expert instructor.	
+Get a quote to train your team – open the Chat window below, or contact info@pinkelephant.com.
+<-------CHUNK-------->
+IT Asset Management Essentials
+COURSE OVERVIEW
+This 3-day certification course provides comprehensive knowledge on all the key elements needed for strong IT asset management. Students will learn the essential concepts necessary for the effective acquisition and life cycle management of hardware, software, and mobile assets.
+
+Today’s increasingly complex business landscape can be a challenge for organizations to manage all their IT hardware and software assets. As IT departments are looking to operate at peak efficiency while minimizing waste and ensuring they remain in compliance, there is a need to understand the full picture of an IT Asset Management (ITAM) program.
+
+This course combines theory with hands-on exercises so students can apply the concepts in practice. As a result, this training is more consultative in nature, which is more practical for your organization’s needs.
+
+Benefits:
+
+This course syllabus is focused on what matters most – practical guidance to reduce risk, manage the IT asset life cycle, and improve compliance
+The training is more like consulting – it provides hands-on learning that allows students to better apply concepts quickly in their organization
+Features guidance on concepts like IoT, mobile assets, cloud-based assets, and more!
+LEARNING OUTCOMES
+Upon successful completion of this course, you will be able to:
+
+Demonstrate the value of IT asset management through the alignment of objectives and key measures to benefit the organization
+Learn how to establish appropriate foundation and parameters for an effective IT Asset Management program; including scope, governance, policies and controls
+Understand the different types and characteristics of IT assets
+Understand the various legal, contract and regulatory compliance concerns related to acquiring, managing, and disposing IT assets
+How to ensure cost-effective acquisition of assets through standards, justification, recovery and reuse of assets, and common organization procurement practices
+Discover the importance of asset documentation and documentation management as critical elements for the management of individual assets and the overall IT Asset Management program
+Learn how to manage the lifecycle of IT assets, beginning with the structured receipt and validation of assets, asset identification, inventory and license control, through the end-of-life of the assets
+Learn how to properly, effectively and legally dispose of IT assets at end-of-life
+Learn how to prepare for and manage asset audits
+Understand the roles and responsibilities for effective and proper management and use of IT assets, both within IT and the greater organization
+Learn to effectively integrate asset management and the configuration management system, understanding the critical relationships and dependences, as well as the major differences between the two
+WHO SHOULD ATTEND?
+IT staff working in asset management, product (lifecycle) managers, and procurement specialists
+IT professionals who have responsibility for the procurement, receipt, lifecycle management, inventory and audit control processes, or the disposal of IT assets for their organization
+Procurement and purchasing professionals outside of IT, who work closely with IT professionals to acquire IT assets and who want a better understanding of the unique challenges to managing IT assets
+IT Management will benefit from this foundational understanding of IT asset management to more effectively support and enable the asset management programs in their organizations
+PREREQUISITES
+There are no prerequisites for this course.
+
+EXAM & CERTIFICATION
+This course prepares participants for the examination leading to the IT Asset Management Essentials certificate, granted by Professional Designations:
+
+The exam is one hour in length and is a multiple-choice, closed book exam
+A mark of 65% (26 correct answers) is required to pass the exam
+You will receive an exam voucher for the web-based exam, to be scheduled following the course
+After completion of this course, you may apply for self-directed learning PDUs through PMI. Letter of attendance is available upon request.
+COURSE E-MATERIALS
+Material for this course will only be provided as downloadable soft copy files that can be viewed on a variety of devices. Attendees may print a hard copy of the files in whatever format best meets their needs, and can use the files under the Pink Elephant Terms of Use.
+
+MULTIPLE OPTIONS FOR HOW YOU CAN ATTEND THIS COURSE
+If you would like more information on any of these options below, please call us at 1-888-273-PINK, email us at info@pinkelephant.com, or ask your questions via our convenient Chat window at the bottom-right corner of this page.
+
+Training Method	Description	Purchase Options
+Self-Paced Online (SPO) 	Learn at your own pace from your computer, anywhere at any time. Get the FULL course in an e-learning format for 12 months.	If you are an individual:
+Purchase below in the shopping cart.
+If you are looking to train your team:
+
+Purchase a Team SPO Training Pass – purchasing your seats in bulk means volume discounts, which vary depending on how many seats you purchase at once.
+To get a quote, open the Chat window below, or contact info@pinkelephant.com.
+Public, Virtual Web-Based	On specific dates throughout the year; hosted live, online, with our expert instructor.	If you are an individual:
+Purchase below in the shopping cart.
+If you are looking to train your team:
+Purchase a Team Public Training Pass – purchasing your seats in bulk means volume discounts, which vary depending on how many seats you purchase at once.
+To get a quote, open the Chat window below, or contact info@pinkelephant.com.
+Team Training	On dates convenient to you; exclusively for your team, hosted live online or at your location with our expert instructor.	
+Get a quote to train your team – open the Chat window below, or contact info@pinkelephant.com.
+<-------CHUNK-------->
+Lean IT Essentials
+Lean is a proven quality and continuous improvement system that was first introduced in the 1950s by Toyota and has since been used by numerous manufacturing and services organizations.
+
+At Pink Elephant, we strongly believe that “Lean thinking” needs to be a part of EVERY IT professional's toolkit. Already, many roles from service desk analysts through to process owners, team leads and supervisors, and department managers, as well as CIOs, have taken this course and benefited greatly from a deeper understanding of how to assess business processes to identify and eliminate waste.
+
+Lean IT provides practical guidance that focuses on the improvement of whatever processes already exist within the organization. Regardless of the framework or standard your IT organization has chosen, the central focus of Lean IT is learning how to assess any business process to eliminate waste, where waste is defined as something that adds no value to a product, service, or output. It is also a crucial and basic approach that can help an organization better position itself to begin its digital transformation journey.
+
+Already, hundreds of thousands of IT professionals from all levels — operational, tactical, and strategic — express their satisfaction about having taken the Lean IT Essentials certification course and implementing its value-added and cost-cutting process improvement activities. Here’s the view of a major insurance company IT executive:
+
+“To date, close to 300 of our staff have taken Lean IT courses. And more to go. I strongly believe that applying Lean and Six Sigma to IT processes has enabled us to gain numerous efficiencies…I would highly recommend Lean IT training to everyone (except our competition).”
+
+Another client shares their recent success with Lean IT in this Pink blog post: Case Study: A Major Financial Institution Embraces Virtual Team Training.
+
+Is your organization ready to realize the benefits of implementing Lean IT?
+
+LEAN IT BENEFITS
+The principles of Lean IT are applicable to all IT operations regardless of industry or sector. Any organization that effectively applies Lean IT will notice increased user and customer satisfaction, reductions of IT costs, increased productivity, and an ability to manage demand more efficiently.
+
+Implementing Lean IT’s mindset, concepts, and techniques can lead to:
+
+Enhanced customer satisfaction and increased loyalty:
+Adds more value while reducing sources of waste
+Improves throughput by reducing waste
+Increases agility and the ability to adapt
+Greater strategic value results in:
+Better quality services
+Increased productivity through improved resource management
+The increased involvement and motivation of employees
+Improved financial value: Lean is NOT a cost-reduction initiative, but the following provide a secondary and positive impact on an organization’s financials:
+The reduction of process waste
+The optimization of value-adding work
+The above improvements can lead to a reduction in the duration between the order intake and delivery, which will improve cash flow.
+THE integratedITSM™ DESIGNATION SCHEME
+This certification course is part of Professional Designations’ new designation scheme for integratedITSM™ and is required to achieve the following designations:
+
+integratedITSM™ Champion
+integratedITSM™ Professional
+Click on the graphic below to enlarge.
+
+
+
+
+COURSE OVERVIEW
+The Lean IT Essentials entry-level course is the first in the Lean IT certification scheme that’s been defined by Professional Designations Corp. (PDC), and it is a mandatory requirement for taking the other two advanced courses: Lean IT Kaizen and Lean IT Leadership.
+
+This course prepares you for the exam leading to the Lean IT Essentials certificate. Based on the core principles of Lean, the two-day Essentials course will help IT departments become more business-value oriented, which will result in removing waste, inflexibility, and variability.
+
+LEARNING OUTCOMES
+Lean IT Essentials focuses on providing actionable improvements to six major components: the customer, processes, performance, the Lean organization, behavior and attitude, and problem-solving/kaizen.
+
+Upon completion, participants of this course will be able to:
+
+Describe the origin, development, and purpose of the Lean and Six Sigma philosophies – which includes their key elements and the five Lean principles
+Understand the concept of the voice of the customer and the factors that influence customer value, etc.
+Recognize the concept of waste – and how to reduce and/or eliminate it
+Understand how to define, initiate, document, and implement process improvements and how they relate to value improvement, etc.
+Understand the definition of performance measurement and how it relates to value stream maps and process cycle efficiency, as well as the requirements for key performance indicators (KPIs), etc.
+Understand the organizational requirements for a Lean IT organization that includes the importance of customer orientation, empowering employees, implementing visual management, etc.
+Identify the characteristics of Lean thinking, the differences between traditional management and Lean leadership, and the behavior and attitudes required to successfully implement Lean, etc.
+Identify and implement the key aspects of problem-solving and kaizen as forms of continuous improvement, which include being able to apply various Lean analytical tools:
+A3 thinking – This is a visual method for structured problem-solving.
+Deming (or Shewhart) cycle – This explains how to apply the cycle of continuous improvement: plan-do-check-act.
+The Toyota production system – One of its basic concepts is: Go, look, and see (fact not emotion).
+Value stream mapping – This shows how to apply Lean IT principles to a value stream.
+The concept of kaizen, also known as continual improvement, is applied across the organization to systems, processes, and activities.
+And much more
+WHO SHOULD ATTEND?
+This course is designed for EVERYONE! Operational, tactical, or strategic – all levels of IT professionals will benefit from attending Lean IT Essentials.
+
+PREREQUISITES
+There are no prerequisites for Lean IT Essentials.
+
+EXAM, CERTIFICATION & AWARDS
+This course prepares you for the examination leading to the Lean IT Essentials certificate.
+
+The exam is 60 minutes in duration, includes 40 multiple-choice questions, and is administered online by an independent examination body.
+Participants are provided with an exam voucher so they can schedule the exam at their convenience on any date after completion of the course.
+You must attain a passing mark of 65% to attain your certificate.
+After completion of this course, you may apply for self-directed learning PDUs through PMI . A letter of attendance is available upon request.
+See the Lean IT Certification Program and Designation section (below) for more details on how to obtain your Lean IT Professional designation.
+COURSE E-MATERIALS
+Materials for this course will only be provided as downloadable soft-copy files that can be viewed on a variety of devices. Attendees may print a hard copy of the files in whatever format best meets their needs and can use the files under the Pink Elephant Terms of Use.
+
+COURSE READING
+Materials included with this course provide a very good overview of the concepts and principles, and adequately prepare attendees for the exam.
+
+MULTIPLE OPTIONS FOR HOW YOU CAN ATTEND THIS COURSE
+If you would like more information on any of these options below, please call us at 1-888-273-PINK, email us at info@pinkelephant.com,or ask your questions via our convenient Chat window at the bottom-right corner of this page.
+
+Training Method	Description	Purchase Options
+Self-Paced Online (SPO) 
+Learn at your own pace from your computer, anywhere at any time. Get the FULL course in an e-learning format for 12 months.	If you are an individual:
+Purchase below in the shopping cart.
+If you are looking to train your team:
+
+Purchase a Team SPO Training Pass – purchasing your seats in bulk means volume discounts, which vary depending on how many seats you purchase at once.
+To get a quote, open the Chat window below, or contact info@pinkelephant.com.
+Public, Virtual Web-Based	On specific dates throughout the year; hosted live, online, with our expert instructor	If you are an individual:
+Purchase below in the shopping cart.
+If you are looking to train your team:
+Purchase a Team Public Training Pass – purchasing your seats in bulk means volume discounts, which vary depending on how many seats you purchase at once.
+To get a quote, open the Chat window below, or contact info@pinkelephant.com.
+Team Training	On dates convenient to you; exclusively for your team, hosted live online or at your location with our expert instructor.	
+Get a quote to train your team – open the Chat window below, or contact info@pinkelephant.com.
+<-------CHUNK-------->
+Lean IT Kaizen
+If you are new to Lean, click here to read a brief introduction.
+
+Kaizen is an improvement philosophy in which continuous, incremental improvement occurs over a sustained period of time to help improve business performance. It’s a Japanese term where kai = change and zen = for the better. Combined, it means change for the better or continual improvement.
+
+This three-day, interactive certification course is participative and provides the knowledge, tools, and techniques needed for leading and facilitating rapid improvement efforts – known as kaizen events – within IT organizations.
+
+Many other project management, Agile, and continual service improvement courses offer high-level overviews with general principles and models. Few of those offer much, if any, specific and practical guidance about how to actually apply and achieve any advancements.
+
+This is what sets the Lean IT Kaizen course apart.
+
+Quote from a raving fan:
+
+“This was a very practical course. We have already started on our kaizen event with great excitement from all the parties involved. The information and tools provided were easy to understand and easy to apply to real-life scenarios. Definitely worth the time!”
+
+LEAN IT KAIZEN BENEFITS
+Kaizen supports purposeful continuous improvement in any IT organization. It supports Lean IT’s goal to make sure every improvement is related to creating more value for customers, the organization, and its personnel in the most efficient ways that include:
+
+Improving processes
+Eliminating waste
+Delivering improved quality
+Delivering value faster
+Supplying services for lower costs
+Creating more meaningful work
+Leaving a healthier environmental footprint
+COURSE OVERVIEW
+This three-day certification course prepares you for the exam leading to the Lean IT Kaizen certificate.
+
+Building on the knowledge gained in Lean IT Essentials, this advanced course will take you beyond understanding Lean concepts and principles to master continuous improvement and become a Lean IT kaizen lead. You will obtain actionable solutions that use structured problem-solving approaches – including one used by Six Sigma – and proven Lean procedures and models. You will learn to identify, plan, and apply incremental service and process improvements that are focused on enhancing the efficiency and effectiveness of any process or value stream.
+
+Participants will learn how to conduct Lean IT kaizen events by working through an improvement opportunity related to their own organization – and leave with a plan for their own kaizen initiative.
+
+The course details kaizen key concepts, terminology, kaizen event roles, etc. It also delves into various Lean IT methods and specifically details how to effectively use the DMAIC (define, measure, analyze, improve, control) improvement model that leverages the Lean A3 problem-identification and planning tool to complete a full improvement cycle. Participants will learn to identify and implement small, accumulative improvement opportunities that utilize a combination of logical and analytical, as well as creative and ideation, methods.
+
+LEARNING OUTCOMES
+During this comprehensive certification course, you will learn about:
+
+The concept of kaizen and the core elements of the kaizen mindset, as well as what kaizen events, daily kaizen and improvement kaizen are – and the differences between them
+The four sources of improvement – voice of the customer, voice of the process, voice of the business, and voice of the regulator
+Applying the five principles of Lean to organizing kaizen events and gain an understanding of kaizen team roles, as well as how to select kaizen initiatives and obtain support for them
+Practical how-tos about applying Lean methodologies:
+The Shewart cycle (also known as the Deming circle) of plan, do, check, and act
+The A3 problem-solving method that applies Lean thinking and allows for a concise and standardized presentation of the process and results from a kaizen initiative, proposal, or the status of a project
+How to take a deep dive into DMAIC – the proven, structured improvement problem-solving method that is integral to a Six Sigma initiative:
+Define – Learn to identify the types of problems, as well as how to write a problem statement, validate the scope of the problem, write a problem definition, and much more.
+Measure – Refine the problem statement by collecting reliable data on the variables related to the problem; use quantitative and qualitative measurement systems to determine procedures, set baseline and benchmarks, measure the value stream, etc.
+Analyze – Follow the five main steps in this stage that include translating the data, performing a data analysis by using various methods that include the seven basic tools of quality and the five whys, performing a process analysis of the value stream map, determining the root causes, and prioritizing the root causes.
+Improve – Identify the improvement options, generate potential solutions, select and prioritize the most suitable of them, apply best practices, develop the future state value stream map, pilot the solution and improvement outcomes, and create an implementation plan.
+Control – Create a measurement system, documentation, and an effective control plan, as well as communicate with stakeholders, present the results, transition ownership, and establish methods to improve quality – and then anchor the change in the organization and share the lessons learned.
+WHO SHOULD ATTEND?
+The course is designed for IT practitioners interested in expanding their practical knowledge and skills to lead targeted Lean IT improvement initiatives focused on continual service improvement, including:
+
+Managers tasked with department level process improvements
+Business analysts
+Project managers
+Software developers
+Quality assurance managers
+IT Consultants
+Any roles responsible for quality, efficiency and continual service improvement
+PREREQUISITES
+For this course, you are required to have successfully attained your Lean IT Essentials certificate. Upon registration, you will need to provide us with a copy of your certificate to be admitted into this course. To look at available dates for the Lean IT Essentials certification course, click here.
+
+EXAM & CERTIFICATION
+This course prepares you for the examination leading to the Lean IT Kaizen certificate.
+The exam is 90 minutes in duration, includes 40 multiple-choice questions and is administered online by an independent examination body. Participants are provided with an exam voucher so they can schedule the exam at their convenience on any date after completion of the course.
+You must attain a passing mark of 65% to attain your certificate.
+After completion of this course, you may apply for self-directed learning PDUs through PMI. Letter of attendance is available upon request.
+COURSE E-MATERIALS
+Material for this course will only be provided as downloadable soft-copy files that can be viewed on a variety of devices. Attendees may print a hard copy of the files in whatever format best meets their needs and can use the files under the Pink Elephant Terms of Use.
+<-------CHUNK-------->
+Business Simulations and Active Learning
+Pink Elephant offers many options for learning in a highly interactive way. Learning by doing means that participants are behaviorally and cognitively very active as they role play through a meaningful business situation to solve a specific problem. This type of learning complements theoretical education by providing a dynamic, reactive, risk-free environment for attendees to engage in, which helps to close the gap between the knowledge acquired during a traditional course and the actual skills required in real-life on-the-job work situations.
+
+BENEFITS OF LEARNING BY DOING WITH BUSINESS SIMULATIONS
+Experiential learning – where you are actually called upon to experience real work situations – has been shown to be very effective. A simulation allows participants to learn by experiencing the consequences of their actions because there is opportunity to execute different approaches and strategies to see different outcomes. Other benefits of business simulations include:
+
+Simulations are a learning tool that replicate on-the-job, real-life experiences; learning by doing has been proven to effectively exemplify theoretical business concepts
+The activities involved promote increased thinking and engagement (and enjoyment!)
+Simulations allow students to learn as if they were really positioned in a specific role within an organization, except the mistakes made don’t have any costly consequences to the business!
+The lessons learned and mistakes made enable improved knowledge retention, decision-making, and communication skills
+The teamwork required to solve problems has the advantage of creating a common culture among the participants. It pushes them to think together, make decisions together, and resolve conflicts together
+THE FORMAT OF BUSINESS SIMULATIONS
+Pink Elephant’s business simulations all include the following components:
+
+A business simulation is typically one day in duration
+Each business simulation focuses on a specific subject area such as DevOps, Lean IT, etc.
+Because of the role playing format, there is a set maximum and minimum number of attendees required
+Participants are assigned roles that mirror real-life jobs and work teams
+A business situation is presented to the group, which involves a specific problem that has to be resolved
+A Pink facilitator is on hand during the entire period of time to guide and direct the discussions
+Checkpoints along the way provide an opportunity to assess what teams have done well and what has not worked well, with an opportunity to take corrective action
+An end-of-day lessons-learned discussion highlights the key learning points
+ONLINE VIRTUAL FORMAT
+Today’s challenging times call for creative approaches to team training. Some of Pink’s business simulations are now available in a virtual, live online format. Here’s how it works:
+
+The same overall approach and activities are involved as described above for onsite delivery.
+Participants are given online access to their “room” one week before the workshop and are given easy-to-follow instructions for pre-workshop activities to get them used to various aspects of maneuvering their way around.
+Pink Elephant’s skilled facilitator provides clear guidance and direction throughout the entire virtual workshop, which enables the participants to enjoy a very meaningful educational experience. “It’s just like being together” is a common theme heard from attendees who have participated in the virtual online simulation.
+LIST OF BUSINESS SIMULATIONS AVAILABLE
+Pink Elephant has partnered with GamingWorks, the business simulations developer, to offer the following options:
+
+Name
+Main Area of Focus
+Format
+DevOps in Action: The Phoenix Project
+DevOps
+Virtual online, or onsite at your location
+The Integrated Service Management Experience: MarsLander®
+ITSM, integrated IT service management
+Virtual online, or onsite at your location
+IT/Business Alignment in Action: Grab@Pizza
+Business and IT alignment, business relationship management
+Onsite at your location
+ITSM in Action: Apollo 13
+ITSM, process management
+Onsite at your location
+Agile Project Management in Action: The Challenge of Egypt
+Agile
+Onsite at your location
+<-------CHUNK-------->
+Business Simulations and Active Learning
+Pink Elephant offers many options for learning in a highly interactive way. Learning by doing means that participants are behaviorally and cognitively very active as they role play through a meaningful business situation to solve a specific problem. This type of learning complements theoretical education by providing a dynamic, reactive, risk-free environment for attendees to engage in, which helps to close the gap between the knowledge acquired during a traditional course and the actual skills required in real-life on-the-job work situations.
+
+BENEFITS OF LEARNING BY DOING WITH BUSINESS SIMULATIONS
+Experiential learning – where you are actually called upon to experience real work situations – has been shown to be very effective. A simulation allows participants to learn by experiencing the consequences of their actions because there is opportunity to execute different approaches and strategies to see different outcomes. Other benefits of business simulations include:
+
+Simulations are a learning tool that replicate on-the-job, real-life experiences; learning by doing has been proven to effectively exemplify theoretical business concepts
+The activities involved promote increased thinking and engagement (and enjoyment!)
+Simulations allow students to learn as if they were really positioned in a specific role within an organization, except the mistakes made don’t have any costly consequences to the business!
+The lessons learned and mistakes made enable improved knowledge retention, decision-making, and communication skills
+The teamwork required to solve problems has the advantage of creating a common culture among the participants. It pushes them to think together, make decisions together, and resolve conflicts together
+THE FORMAT OF BUSINESS SIMULATIONS
+Pink Elephant’s business simulations all include the following components:
+
+A business simulation is typically one day in duration
+Each business simulation focuses on a specific subject area such as DevOps, Lean IT, etc.
+Because of the role playing format, there is a set maximum and minimum number of attendees required
+Participants are assigned roles that mirror real-life jobs and work teams
+A business situation is presented to the group, which involves a specific problem that has to be resolved
+A Pink facilitator is on hand during the entire period of time to guide and direct the discussions
+Checkpoints along the way provide an opportunity to assess what teams have done well and what has not worked well, with an opportunity to take corrective action
+An end-of-day lessons-learned discussion highlights the key learning points
+ONLINE VIRTUAL FORMAT
+Today’s challenging times call for creative approaches to team training. Some of Pink’s business simulations are now available in a virtual, live online format. Here’s how it works:
+
+The same overall approach and activities are involved as described above for onsite delivery.
+Participants are given online access to their “room” one week before the workshop and are given easy-to-follow instructions for pre-workshop activities to get them used to various aspects of maneuvering their way around.
+Pink Elephant’s skilled facilitator provides clear guidance and direction throughout the entire virtual workshop, which enables the participants to enjoy a very meaningful educational experience. “It’s just like being together” is a common theme heard from attendees who have participated in the virtual online simulation.
+<-------CHUNK-------->
+Business Simulations and Active Learning
+Pink Elephant offers many options for learning in a highly interactive way. Learning by doing means that participants are behaviorally and cognitively very active as they role play through a meaningful business situation to solve a specific problem. This type of learning complements theoretical education by providing a dynamic, reactive, risk-free environment for attendees to engage in, which helps to close the gap between the knowledge acquired during a traditional course and the actual skills required in real-life on-the-job work situations.
+
+BENEFITS OF LEARNING BY DOING WITH BUSINESS SIMULATIONS
+Experiential learning – where you are actually called upon to experience real work situations – has been shown to be very effective. A simulation allows participants to learn by experiencing the consequences of their actions because there is opportunity to execute different approaches and strategies to see different outcomes. Other benefits of business simulations include:
+
+Simulations are a learning tool that replicate on-the-job, real-life experiences; learning by doing has been proven to effectively exemplify theoretical business concepts
+The activities involved promote increased thinking and engagement (and enjoyment!)
+Simulations allow students to learn as if they were really positioned in a specific role within an organization, except the mistakes made don’t have any costly consequences to the business!
+The lessons learned and mistakes made enable improved knowledge retention, decision-making, and communication skills
+The teamwork required to solve problems has the advantage of creating a common culture among the participants. It pushes them to think together, make decisions together, and resolve conflicts together
+THE FORMAT OF BUSINESS SIMULATIONS
+Pink Elephant’s business simulations all include the following components:
+
+A business simulation is typically one day in duration
+Each business simulation focuses on a specific subject area such as DevOps, Lean IT, etc.
+Because of the role playing format, there is a set maximum and minimum number of attendees required
+Participants are assigned roles that mirror real-life jobs and work teams
+A business situation is presented to the group, which involves a specific problem that has to be resolved
+A Pink facilitator is on hand during the entire period of time to guide and direct the discussions
+Checkpoints along the way provide an opportunity to assess what teams have done well and what has not worked well, with an opportunity to take corrective action
+An end-of-day lessons-learned discussion highlights the key learning points
+ONLINE VIRTUAL FORMAT
+Today’s challenging times call for creative approaches to team training. Some of Pink’s business simulations are now available in a virtual, live online format. Here’s how it works:
+
+The same overall approach and activities are involved as described above for onsite delivery.
+Participants are given online access to their “room” one week before the workshop and are given easy-to-follow instructions for pre-workshop activities to get them used to various aspects of maneuvering their way around.
+Pink Elephant’s skilled facilitator provides clear guidance and direction throughout the entire virtual workshop, which enables the participants to enjoy a very meaningful educational experience. “It’s just like being together” is a common theme heard from attendees who have participated in the virtual online simulation.
+<-------CHUNK-------->
+Business Simulations and Active Learning
+Pink Elephant offers many options for learning in a highly interactive way. Learning by doing means that participants are behaviorally and cognitively very active as they role play through a meaningful business situation to solve a specific problem. This type of learning complements theoretical education by providing a dynamic, reactive, risk-free environment for attendees to engage in, which helps to close the gap between the knowledge acquired during a traditional course and the actual skills required in real-life on-the-job work situations.
+
+BENEFITS OF LEARNING BY DOING WITH BUSINESS SIMULATIONS
+Experiential learning – where you are actually called upon to experience real work situations – has been shown to be very effective. A simulation allows participants to learn by experiencing the consequences of their actions because there is opportunity to execute different approaches and strategies to see different outcomes. Other benefits of business simulations include:
+
+Simulations are a learning tool that replicate on-the-job, real-life experiences; learning by doing has been proven to effectively exemplify theoretical business concepts
+The activities involved promote increased thinking and engagement (and enjoyment!)
+Simulations allow students to learn as if they were really positioned in a specific role within an organization, except the mistakes made don’t have any costly consequences to the business!
+The lessons learned and mistakes made enable improved knowledge retention, decision-making, and communication skills
+The teamwork required to solve problems has the advantage of creating a common culture among the participants. It pushes them to think together, make decisions together, and resolve conflicts together
+THE FORMAT OF BUSINESS SIMULATIONS
+Pink Elephant’s business simulations all include the following components:
+
+A business simulation is typically one day in duration
+Each business simulation focuses on a specific subject area such as DevOps, Lean IT, etc.
+Because of the role playing format, there is a set maximum and minimum number of attendees required
+Participants are assigned roles that mirror real-life jobs and work teams
+A business situation is presented to the group, which involves a specific problem that has to be resolved
+A Pink facilitator is on hand during the entire period of time to guide and direct the discussions
+Checkpoints along the way provide an opportunity to assess what teams have done well and what has not worked well, with an opportunity to take corrective action
+An end-of-day lessons-learned discussion highlights the key learning points
+ONLINE VIRTUAL FORMAT
+Today’s challenging times call for creative approaches to team training. Some of Pink’s business simulations are now available in a virtual, live online format. Here’s how it works:
+
+The same overall approach and activities are involved as described above for onsite delivery.
+Participants are given online access to their “room” one week before the workshop and are given easy-to-follow instructions for pre-workshop activities to get them used to various aspects of maneuvering their way around.
+Pink Elephant’s skilled facilitator provides clear guidance and direction throughout the entire virtual workshop, which enables the participants to enjoy a very meaningful educational experience. “It’s just like being together” is a common theme heard from attendees who have participated in the virtual online simulation.
+<-------CHUNK-------->
+
 integratedITSM
 Navigating IT Service Management in the Digital Era
   
@@ -356,7 +2237,9 @@ https://www.ibm.com/topics/it-service-management
 International Organization for Standardization (ISO). “Management System Standards.” ISO.org, 2022. Accessed January 5, 2024. https://www.iso.org/management-system-standards.html
 Senge, Peter M. The Fifth Discipline: The Art and Practice of the Learning Organization. 2nd ed. London, England: Random House Books, 2017, p. 59.
 World Economic Forum. “Trudeau: "The Pace of Change Has Never Been This Fast.” Youtube.com. Last modified January 23, 2018. Accessed January 4, 2024. https://www.youtube.com/watch?v=fTl1YNTNb0g
-    
+
+<-------CHUNK-------->
+
  integratedITSM
 Navigating IT Service Management in the Digital Era
 In today's tech-driven business landscape, the urgency for a comprehensive approach to IT service management (ITSM) has never been more critical. integratedITSM addresses this need, emphasizing collaboration, agility, resilience, and automation in the face of disruptive technologies, data- driven intelligence, and cyber threats.
@@ -364,9 +2247,6 @@ As Canada's Prime Minister Trudeau, speaking at the World Economic Forum in Davo
 Navigating ITSM frameworks, the book recognizes industry struggles and identifies organizational will as a key challenge. It advocates for an integrated approach, showcasing how organizations can eliminate redundancies and create a seamless flow between different IT management processes.
 Unlike rigid frameworks, this book promotes a blended and tailored approach that aligns with an organization's unique needs. It highlights the significance of integrating practices like Agile, DevOps, and Lean principles for continuous improvement.
 integratedITSM is a pragmatic guide for IT professionals and leaders aiming to thrive in the dynamic landscape of ITSM. It offers a road map for navigating complexity, fostering collaboration, and achieving ITSM excellence in the digital age.
-
-
-
 
 Chapter 1: Integrated Enablers, Frameworks, and Practices In the fast-paced commercial environment where business ambitions seek to adopt emerging technologies to support digital strategy while at the same time focusing on running stable operations, IT service organizations find themselves at a crossroads. To thrive, they're compelled to embrace a value centric, high-speed approach to managing IT services, an approach that demands accelerated value delivery while simultaneously elevating service quality, fostering innovation, and cultivating agility. Amidst the ever-shifting landscape of disruptive technologies and the relentless tide of societal and business changes, IT organizations grapple with an imposing challenge. They recognize the imperative of swift action, striving to hasten the delivery of value while forging stronger connections and collaboration across their internal teams and external service partners. This demands not just speed but collaboration and alignment among people, teams, and the broader network of external service In the quest to navigate these complex and almost paradoxical business goals, many IT service provider organizations have turned to a variety of sources for published IT management practices and models. The good news is that there is no shortage of IT governance, management, and process frameworks, such as COBIT, ITIL, PMBOK, SAFe, and many others which provide valuable guidance and best practices for managing IT services and projects. They offer a structured approach to defining, documenting, and automating processes, aiming to increase efficiency and reduce risks. However, these frameworks alone fall short of addressing the complex challenges faced by IT organizations in today's fast-paced digital Recognizing this limitation, forward-thinking service organizations understand that the path to long term success lies in more than just process optimization and integration. While processes play a crucial role, they are only a piece of the larger picture of an integratedITSM approach. To achieve their goals effectively, IT organizations must leverage enabling methodologies that are focused on business agility, managing organizational change, improved efficiency, and automation while at the same time reducing costs. Technology leadership understands that there are various enablers, frameworks, and models that are critical to the long-term success of these goals. The ability to leverage and integrate practices such as Lean, Agile, DevOps, key enabler roles, and organizational change providers. world. management to name a few.
 
@@ -433,7 +2313,7 @@ Chapter 6: Key Enabler Roles 39 Problem management: Service owners play a major 
 Chapter 6: Key Enabler Roles Service delivery manager 40 A service delivery manager (SDM) is responsible for ensuring that an organization's services are delivered to clients or customers in a timely, efficient, and effective manner. The role of an SDM will work closely with product and service owners, BRMS, and vendor management and may be either an Internal SDM: The SDM collaborates with vendor management to ensure effective vendor selection, External SDM: The SDM from a managed service provider (MSP) plays a crucial role in collaborating with BRMS and product and service owners to ensure smooth and effective service delivery. internal provider employee or a vendor-supplied role for outsourced services. contract management, and vendor performance evaluation. To fulfill their role effectively, service delivery managers leverage: Lean by adopting Lean principles to eliminate waste by identifying and streamlining processes to ensure the smooth flow of services, reduce unnecessary steps, and optimize resource Agile by working collaboratively with product owners and cross-functional development teams DevOps by tracking key performance indicators (KPIS) related to service delivery, such as deployment frequency, lead time, and mean time to restore, identifying areas for improvement, and initiating corrective actions to enhance the overall efficiency and reliability of service Organizational change management to actively support and participate in change initiatives, communicate changes effectively, engage appropriate stakeholders, and manage resistance to Service delivery managers play a crucial role in the execution of integrated ITSM processes including: Incident management: The SDM plays a crucial role in incident management by collaborating with incident response teams, coordinating resources, and providing support to resolve incidents Major incident management: The SDM often takes a more active role in leading the incident response efforts including coordinating stakeholders, ensuring effective communication between teams, providing regular updates to senior management and customers, and overseeing the Request management: The SDM contributes to request management by establishing and Monitoring and alerting: The SDM oversees the monitoring and alerting activities to ensure the Problem management: The SDM is involved in problem management, particularly in the utilization. to address customer issues or to deliver on agreed customer deliverables. delivery. change. promptly. resolution process. maintaining efficient processes for handling service requests. continuous availability and performance of services. participation of blameless postmortems.
 
 Chapter 6: Key Enabler Roles 41 The Importance of the Key Enabler Roles The roles and responsibilities related to key enablers in integrated IT service management positively contribute to bridging the gap between business and IT functions and aligning IT services with business The business relationship manager (BRM) is pivotal in maintaining and enhancing customer relationships through proactive engagement. This role serves as a liaison between customers and the IT service provider, managing customer expectations, participating in strategic planning, and assisting in Product and service owners, while distinct, play interrelated roles in defining and managing products or IT services throughout their life cycle. They ensure alignment with customer needs and business goals, leveraging Lean, Agile, DevOps, and organizational change management principles to drive efficiency The vendor relationship manager (VRM) oversees the relationships with vendors, ensuring effective collaboration and integration of vendors with internal ITSM processes. VRMS are crucial in incident and problem management, service level management, and release and deployment management, working to Service delivery managers (SDMs), whether internal or external, are responsible for the efficient and effective delivery of services. They play a critical role in incident management, major incident management, request management, monitoring and alerting, and problem management, adopting Lean, In conclusion, these key enabler roles are essential in the execution of integrated ITSM processes. By leveraging various frameworks and methodologies, they ensure that IT services are aligned with business objectives, driving continuous improvement and fostering strong, mutually beneficial relationships with customers, stakeholders, and vendors. Their collaborative efforts contribute significantly to the overall effectiveness and efficiency of IT service management within an organization. objectives. organizational change management. and customer satisfaction. ensure that vendor services meet the agreed-upon standards. Agile, and DevOps methodologies to optimize service delivery.
-
+<-------CHUNK-------->
 
 Executing Integrated IT Service Management 
 
