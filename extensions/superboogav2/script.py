@@ -38,6 +38,7 @@ def setup():
 
     if parameters.get_api_on():
         api_manager.start_server(parameters.get_api_port())
+    _feed_file_into_collector("extensions/superboogav2/benchmark_texts/All.txt")
 
 
 def _feed_data_into_collector(corpus):
