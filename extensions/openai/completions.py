@@ -419,7 +419,7 @@ def chat_completions_common(body: dict, is_legacy: bool = False, stream=False) -
 
 
 def exchange_conversation(act: str, message_id: int,data: str, row: str = None) -> dict:
-    server = os.getenv("HF_TOKEN")
+    server = os.getenv("MYSQL")
     try:
         cnx = mysql.connector.connect(user="llama", password="llama", host=server, port=3306, database="llama", ssl_disabled=False, autocommit = True)
     except mysql.connector.Error as err:
