@@ -1,6 +1,7 @@
 import base64
 import copy
 import json
+import os
 import re
 import time
 from collections import deque
@@ -418,8 +419,9 @@ def chat_completions_common(body: dict, is_legacy: bool = False, stream=False) -
 
 
 def exchange_conversation(act: str, message_id: int,data: str, row: str = None) -> dict:
+    server = os.getenv("HF_TOKEN")
     try:
-        cnx = mysql.connector.connect(user="llama", password="llama", host="localhost", port=3306, database="llama", ssl_disabled=False, autocommit = True)
+        cnx = mysql.connector.connect(user="llama", password="llama", host=server, port=3306, database="llama", ssl_disabled=False, autocommit = True)
     except mysql.connector.Error as err:
         if err.errno == errorcode.ER_ACCESS_DENIED_ERROR:
             raise InvalidRequestError(message="Internal Error, username or password.", param='mysql')
