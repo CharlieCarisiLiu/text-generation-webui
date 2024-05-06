@@ -115,7 +115,7 @@
       "should_optimize": false
     },
     "chunk_separator": {
-      "default": ""
+      "default": "<-------CHUNK-------->"
     },
     "prefix": {
       "default": "<<document chunk>>\n\n"
