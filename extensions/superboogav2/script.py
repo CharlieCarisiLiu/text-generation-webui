@@ -39,7 +39,7 @@ def setup():
     if parameters.get_api_on():
         api_manager.start_server(parameters.get_api_port())
     logger.debug(f'Start Adding to chromadb')
-    file="extensions/superboogav2/benchmark_texts/All.txt"
+    file = gr.File(value='extensions/superboogav2/benchmark_texts/All.txt', label='Input file', type='binary')
     text = file.decode('utf-8')
     process_and_add_to_collector(text, collector, False, create_metadata_source('file'))
     #_feed_file_into_collector("extensions/superboogav2/benchmark_texts/All.txt")
