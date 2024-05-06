@@ -42,3 +42,4 @@ wandb
 .env
 best_params.json
 /chroma
+service
