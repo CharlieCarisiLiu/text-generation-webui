@@ -1,4 +1,53 @@
- TRAINING & CERTIFICATIONS
+integratedITSM™ Champion
+The integratedITSM™ Champion designation is a highly valuable recognition for IT professionals who have completed a rigorous set of certifications in key areas related to IT service management, agile methodology, organizational change management, and more. This designation signifies that the recipient has a comprehensive understanding of the latest best practices and industry standards in the integratedITSM™ and integrated IT service management and related fields, and is equipped with the knowledge necessary to lead IT teams and drive meaningful change within their organizations. Upon successful completion of the following certifications, candidates are eligible to claim their integratedITSM™ Champion designation:
+The integratedITSM™ System
+integratedITSM™ Essentials
+Lean IT Essentials
+Agile Scrum Essentials
+Organizational Change Management
+IT Business Relationship Manager
+Value Stream Mapping
+IT Performance & Improvement Management
+Enabling integratedITSM™ with Devops, Agile & Lean
+IT Business Leader
+
+integratedITSM™ Professional
+The integratedITSM™ Professional designation is a highly regarded recognition for IT professionals who have completed a focused set of certifications in key areas related to IT service management, lean IT methodology, and agile scrum methodology. This designation signifies that the recipient has a comprehensive understanding of the latest best practices and industry standards in IT service management and related fields, and is equipped with the knowledge necessary to effectively contribute to and manage IT projects and teams.
+Upon successful completion of the following certifications, candidates are eligible to claim their integratedITSM™ Professional designation:
+The integratedITSM™ System
+integratedITSM™ Essentials
+Lean IT Essentials
+Agile Scrum Essentials
+
+Organizational Change Management ArchitectTM
+This designation demonstrates to employers and colleagues alike that the recipient is a highly qualified and dedicated IT professional, capable of effectively managing and leading others through major change in complex environments and contributing to the overall success of their organization's IT service management program.
+Upon successful completion of the following certifications, candidates are eligible to claim their Organizational Change Management ArchitectTM designation:
+The integratedITSM™ System
+integratedITSM™ Essentials
+Organizational Change Management
+
+IT Business Relationship Management ArchitectTM
+This designation demonstrates to employers and colleagues alike that the recipient is a highly qualified and dedicated IT professional, capable of effectively contributing to and managing several key IT and business relationships at operational, tactical and strategic levels and contributing to the overall success of their organization's IT service management program.
+Upon successful completion of the following certifications, candidates are eligible to claim their IT Business Relationship Management ArchitectTM designation:
+The integratedITSM™ System
+integratedITSM™ Essentials
+IT Business Relationship Manager
+
+Value Stream Mapping ArchitectTM
+This designation demonstrates to employers and colleagues alike that the recipient is a highly qualified and dedicated IT professional, who has a comprehensive knowledge of process design, process management, and process mapping with the capabilities to effectively improve the overall success of their organization's IT service management program.
+Upon successful completion of the following certifications, candidates are eligible to claim their Value Stream Mapping ArchitectTM designation:
+The integratedITSM™ System
+integratedITSM™ Essentials
+Value Stream Mapping
+
+IT Performance & Improvement Management ArchitectTM
+This designation demonstrates to employers and colleagues alike that the recipient is a highly qualified and dedicated IT professional, who has a comprehensive knowledge of how to conduct process assessments to identify improvement opportunities and implement meaningful IT and business metrics and measurements and with capabilities to effectively contribute to the overall success of their organization's IT service management program.
+Upon successful completion of the following certifications, candidates are eligible to claim their IT Performance & Improvement Management ArchitectTM designation:
+The integratedITSM™ System
+integratedITSM™ Essentials
+IT Performance & Improvement Management
+<-------CHUNK-------->
+TRAINING & CERTIFICATIONS
 Pink Elephant boasts a comprehensive portfolio of business, leadership and IT service management education programs, simulations and certiﬁcations. All of Pink’s courses can be presented in-house at your location, offered in an instructor-led public or virtual classroom or in self-paced format giving you the ﬂexibility to train anytime, anywhere.To view all course offerings, locations and dates, download the Schedule-At-A-Glance, https://pinkelephant.com/uploadedfiles/Courses/CA_Education_Schedule-At-A-Glance.pdf. Many of Pink’s courses and certifications are based on Professional Designations Corp’s (PDC) integratedITSM™ designation scheme.
 
 The ITSM community has been well-served for many decades. We know because Pink Elephant played the leading role on the world stage starting the IT service management revolution in the late ‘80s and, until last year, supported and contributed to the various versions of multiple frameworks.
