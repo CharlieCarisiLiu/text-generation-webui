@@ -1,3 +1,77 @@
+The ITSM community has been well-served for many decades. We know because Pink Elephant played the leading role on the world stage in starting the IT service management revolution in the late ‘80s. Until last year we supported and contributed to the various versions of multiple frameworks. But today, and with changing times and changing players, Pink has partnered exclusively with Professional Designations (PDC) to develop what we believe to be a much more practical and real-world system for ITSM professionals to reference – integratedITSM™.  The teachings of this new body of knowledge are based on our consultants’ many decades of helping CIOs and IT practitioners and yes, even tool vendors implement real-world solutions, not theory.
+
+integratedITSM represents a fresh approach that is gaining extremely positive attention in the industry. Like a new kid in town, it brings excitement and potential disruption to the established order. We feel that this new body of knowledge offers innovative ideas and perspectives. It brings a renewed focus to managing IT services and addressing organizational needs. Just see what your peers are saying after attending Pink’s integratedITSM courses:
+
+The depth of this course far exceeded my expectations – the content is unbelievably rich. I am walking away with very practical information that has helped me fill in many missing gaps. Kudos to (the instructor) and Pink!"
+Fantastic content, lively and engaged instructor, and content that translates incredibly well to my real-world work situations!
+Pink Elephant has hit another home run!
+Loved the layout of each process.  The consistency made it easier to follow and most importantly, retain.
+The course was excellent. It helped me to understanding how I can incorporate ITSM, Agile, Lean, and DevOps into my group. The materials, videos, and classroom discussions really helped me to understand the material and made the class fun.
+If you are one of the organizations that have moved on to look at other ITSM options, we believe we have much more practical implementation guidance and ITSM content to offer you. So, for those of you who have told us “What we’ve been using up to now doesn’t work for us anymore,” come along and meet the new kid in town, and experience…
+
+A wealth of practical, real-world content in the core courses
+In-depth operational guidance while still providing direct links to the bigger picture of business value
+Content and examples of process management in real-world scenarios
+An ‘integrated’ perspective that includes easy-to-describe and tangible relationships between ITSM and the key enablers of Lean, Agile, DevOps, OCM, and BRM
+An innovative and different approach to acquiring professional certifications and designations
+No mandatory first course to take in the certification scheme
+Books included for further reference at no additional cost
+No re-certification requirements
+How lucky is the ITSM community to have choices! We believe the integratedITSM approach warrants serious consideration and comparison with whatever else you’ve been using, and more importantly, we believe it provides excellent value for your training investment. When you compare, like for like, we think you’ll choose the new offerings from Pink Elephant and PDC.
+<-------CHUNK-------->
+Professional Designations (PDC) is an examination institute, and we provide a comprehensive assessment and certification process conducted with the utmost integrity. Our examinations and designations are regularly updated by renowned experts to reflect the crucial bodies of knowledge contained within our industry-leading portfolios.
+Why Professional Designations
+
+For Certification Candidates
+No Recertification
+All our certifications and designations are valid for life.
+Certifications and Designations
+Our certifications and designations are designed to recognize and validate the expertise and accomplishments of IT professionals.
+Digital Badges for Life
+All your achievements are showcased on a permanent web page and are registered on a blockchain address.
+Easy Paths to Certification
+Most of our certifications have no prerequisites, allowing for a flexible completion date.
+
+For Training Partners
+Extensive Certification Portfolio
+We provide a diverse selection of IT and business certifications to suit your needs.
+Editable Vanilla Material
+Jump-start your own branded training material or use ours as-is.
+Simple and Competitive Pricing
+All exams, whether essential or advanced, are offered at the same price.
+Agile Release Cycle
+Our commitment to continuous improvement is backed by version-controlled exams.
+<-------CHUNK-------->
+Pink Elephant is very excited about our rousing new education portfolio addition! Working with Professional Designations (PDC) and other industry subject matter experts, The integratedITSM™ Designation Scheme designation scheme includes several very significant new industry certifications.
+
+Aimed at galvanizing IT professionals to become strong internal business partners within their organizations, the certification courses included in the scheme provide participants with very meaningful business and IT service management knowledge that will help them understand the complexities of truly ‘integrated’ business and IT systems.
+
+Here is an overview of each of the six new designations:
+
+The integratedITSM™ Champion™
+
+What is sure to become a highly prized credential, this designation signifies that the recipient has a comprehensive understanding of the latest best practices and industry standards in integrated IT business management, integrated IT service management, agile and lean methodologies, IT leadership, organizational change management, and more. This designation also signifies that the recipient is equipped with the knowledge necessary to lead IT teams and drive meaningful change within their organizations.
+
+The integratedITSM™ Professional™
+
+This highly regarded designation signifies that the recipient has a deep understanding of the latest best practices and industry standards in integrated IT service management, integrated IT business management, Lean IT, Agile Scrum, and related enabling practices, and is equipped with the knowledge necessary to effectively contribute to and manage IT projects and teams.
+
+Organizational Change Management Architect™
+
+This designation demonstrates that the recipient is a highly qualified IT professional capable of effectively managing and leading others through major changes in complex environments and contributing to the overall success of their organization’s IT service management program.
+
+IT Business Relationship Management Architect™
+
+This designation demonstrates that the recipient is a highly qualified IT professional capable of effectively contributing to and managing several key IT and business relationships at operational, tactical, and strategic levels and contributing to the overall success of their organization’s IT service management program.
+
+Value Stream Mapping Architect™
+
+This designation demonstrates that the recipient is a highly qualified IT professional who has a comprehensive knowledge of process design, process management, and process mapping with the capabilities to effectively contribute to the overall success of their organization’s IT service management program.
+
+IT Performance & Improvement Management Architect™
+
+This designation demonstrates that the recipient is a highly qualified IT professional who has a comprehensive knowledge of how to conduct process assessments to identify improvement opportunities and implement, track, and report on meaningful IT and business metrics and measurements, as well as possesses the capabilities to effectively contribute to the overall success of their organizations IT service management program. 
+
 integratedITSM™ Champion
 The integratedITSM™ Champion designation is a highly valuable recognition for IT professionals who have completed a rigorous set of certifications in key areas related to IT service management, agile methodology, organizational change management, and more. This designation signifies that the recipient has a comprehensive understanding of the latest best practices and industry standards in the integratedITSM™ and integrated IT service management and related fields, and is equipped with the knowledge necessary to lead IT teams and drive meaningful change within their organizations. Upon successful completion of the following certifications, candidates are eligible to claim their integratedITSM™ Champion designation:
 The integratedITSM™ System
