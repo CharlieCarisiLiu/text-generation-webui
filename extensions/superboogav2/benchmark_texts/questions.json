@@ -235,7 +235,125 @@
                 "criteria": [
                     "In response to this increased urgency and dependency on IT services, it has become business-critical to take a holistic approach to improving IT management processes and reducing business risk while at the same time ensuring agility, resilience, and automation."
                 ]
-            }
+            },
+            {
+                "question_variants": [
+                    "How does IT service management contribute to business risk management?"
+                ],
+                "criteria": [
+                    "In response to this increased urgency and dependency on IT services, it has become business-critical to take a holistic approach to improving IT management processes and reducing business risk while at the same time ensuring agility, resilience, and automation."
+                ]
+            },
+            {
+                "question_variants": [
+                    "How does IT service management contribute to business risk management?"
+                ],
+                "criteria": [
+                    "In response to this increased urgency and dependency on IT services, it has become business-critical to take a holistic approach to improving IT management processes and reducing business risk while at the same time ensuring agility, resilience, and automation."
+                ]
+            },
+            {
+                "question_variants": [
+                    "How does IT service management contribute to business risk management?"
+                ],
+                "criteria": [
+                    "In response to this increased urgency and dependency on IT services, it has become business-critical to take a holistic approach to improving IT management processes and reducing business risk while at the same time ensuring agility, resilience, and automation."
+                ]
+            },
+            {
+                "question_variants": [
+                    "How does IT service management contribute to business risk management?"
+                ],
+                "criteria": [
+                    "In response to this increased urgency and dependency on IT services, it has become business-critical to take a holistic approach to improving IT management processes and reducing business risk while at the same time ensuring agility, resilience, and automation."
+                ]
+            },
+            {
+                "question_variants": [
+                    "What role has Pink Elephant played in the IT service management revolution?"
+                ],
+                "criteria": [
+                    "Pink Elephant played the leading role on the world stage in starting the IT service management revolution in the late ‘80s."
+                ]
+            },
+            {
+                "question_variants": [
+                    "What is integratedITSM and who developed it?"
+                ],
+                "criteria": [
+                    "Pink has partnered exclusively with Professional Designations (PDC) to develop what we believe to be a much more practical and real-world system for ITSM professionals to reference – integratedITSM™."
+                ]
+            },
+            {
+                "question_variants": [
+                    "How is integratedITSM perceived in the industry?"
+                ],
+                "criteria": [
+                    "integratedITSM represents a fresh approach that is gaining extremely positive attention in the industry."
+                ]
+            },
+            {
+                "question_variants": [
+                    "What are some benefits mentioned by attendees of Pink’s integratedITSM courses?"
+                ],
+                "criteria": [
+                    "The depth of this course far exceeded my expectations – the content is unbelievably rich. I am walking away with very practical information that has helped me fill in many missing gaps. Kudos to (the instructor) and Pink!",
+                    "Fantastic content, lively and engaged instructor, and content that translates incredibly well to my real-world work situations!"
+                ]
+            },
+            {
+                "question_variants": [
+                    "What are the key elements of integratedITSM according to Pink Elephant?"
+                ],
+                "criteria": [
+                    "A wealth of practical, real-world content in the core courses",
+                    "In-depth operational guidance while still providing direct links to the bigger picture of business value",
+                    "Content and examples of process management in real-world scenarios",
+                    "An ‘integrated’ perspective that includes easy-to-describe and tangible relationships between ITSM and the key enablers of Lean, Agile, DevOps, OCM, and BRM"
+                ]
+            },
+            {
+                "question_variants": [
+                    "What are the new designations included in the integratedITSM™ Designation Scheme?"
+                ],
+                "criteria": [
+                    "The integratedITSM™ Designation Scheme designation scheme includes several very significant new industry certifications."
+                ]
+            },
+            {
+                "question_variants": [
+                    "What does the integratedITSM™ Champion designation signify?"
+                ],
+                "criteria": [
+                    "This designation signifies that the recipient has a comprehensive understanding of the latest best practices and industry standards in integrated IT business management, integrated IT service management, agile and lean methodologies, IT leadership, organizational change management, and more."
+                ]
+            },
+            {
+                "question_variants": [
+                    "What benefits does Professional Designations Corp (PDC) offer for certification candidates?"
+                ],
+                "criteria": [
+                    "All our certifications and designations are valid for life.",
+                    "Digital Badges for Life: All your achievements are showcased on a permanent web page and are registered on a blockchain address.",
+                    "Easy Paths to Certification: Most of our certifications have no prerequisites, allowing for a flexible completion date."
+                ]
+            },
+            {
+                "question_variants": [
+                    "What are the primary focus areas of the IT Business Leader certification course?"
+                ],
+                "criteria": [
+                    "The course covers three levels of IT business integration, and their many components including strategy, vision, values, mission, goals, objectives, and governance."
+                ]
+            },
+            {
+                "question_variants": [
+                    "How does the IT Business Relationship Manager course help BRMs?"
+                ],
+                "criteria": [
+                    "The course delivers hands-on, interactive activities to help you: Establish, build and maintain the relationship between IT as a service provider and internal business stakeholders. Identify business value and ensure that both IT and stakeholders understand the requirements to meet strategic goals."
+                ]
+            }        
         ]        
     }
 ]
