@@ -526,7 +526,8 @@ def chat_bot_common(body: dict, is_legacy: bool = False, stream=False) -> dict:
     
     body['character'] = "Pinky"
     body['bot_name'] = "Pinky"
-    body['instruction_template'] = "ITSM-LLAMA-RAG"
+    #body['instruction_template'] = "ITSM-LLAMA-RAG"
+    body['instruction_template'] = "Llama-v3"
     
     body['preset'] = "LLaMA-Precise"
 
