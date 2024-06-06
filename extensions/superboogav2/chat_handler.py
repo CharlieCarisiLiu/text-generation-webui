@@ -30,12 +30,12 @@ def _should_query(input: str, state: dict):
     
     if not parameters.get_is_manual():
         if 'instruction_template' in state:
-            if state['instruction_template'] == 'ITSM-LLAMA-RAG':
-                return True
-            else:
+            if state['instruction_template'] == 'Llama-v2':
                 return False
+            else:
+                return True
         else:
-            return False
+            return True
 
     if re.search(r'^\s*!c|!c\s*$', input, re.MULTILINE):
         return True
