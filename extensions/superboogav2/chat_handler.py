@@ -29,10 +29,13 @@ def _remove_tag_if_necessary(user_input: str):
 def _should_query(input: str, state: dict):
     
     if not parameters.get_is_manual():
-        if state['instruction_template'] == 'Llama-v2':
-            return False
+        if 'instruction_template' in state:
+            if state['instruction_template'] == 'ITSM-LLAMA-RAG':
+                return True
+            else:
+                return False
         else:
-            return True
+            return False
 
     if re.search(r'^\s*!c|!c\s*$', input, re.MULTILINE):
         return True
