@@ -262,6 +262,14 @@ def chat_completions_common(body: dict, is_legacy: bool = False, stream=False) -
                 body['preset'] = "LLaMA-Precise"
                 #preset = load_preset_memoized("LLaMA-Precise")
 
+            case 'LLAMA-3-Chat-ITSM':
+                body['character'] = "Pinky"
+                body['bot_name'] = "Pinky"
+                body['instruction_template'] = "Llama-v3"
+                generate_params['max_new_tokens'] = 512
+                generate_params['auto_max_new_tokens'] = True
+                body['preset'] = "LLaMA-Precise"
+
             case 'LLAMA-2-Chat-Regular':
                 body['character'] = "None"
                 body['instruction_template'] = "Llama-v2"
@@ -269,6 +277,13 @@ def chat_completions_common(body: dict, is_legacy: bool = False, stream=False) -
                 generate_params['auto_max_new_tokens'] = False
                 body['preset'] = "simple-1"
                 #preset = load_preset_memoized("LLaMA-Precise")
+
+            case 'LLAMA-3-Chat-Regular':
+                body['character'] = "None"
+                body['instruction_template'] = None
+                generate_params['max_new_tokens'] = 10
+                generate_params['auto_max_new_tokens'] = False
+                body['preset'] = "simple-1"
 
 
     else:
