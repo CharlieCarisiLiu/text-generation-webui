@@ -7,7 +7,6 @@
 /repositories
 /softprompts
 /torch-dumps
-/training/datasets
 /loras
 /CMD_FLAGS.txt
 /img_bot*
