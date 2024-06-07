@@ -251,7 +251,7 @@ def chat_completions_common(body: dict, is_legacy: bool = False, stream=False) -
 
     #Check user picked model
     model = generate_params['model']
-    if model in ['LLAMA-2-Chat-ITSM','LLAMA-2-Chat-Regular']:
+    if model in ['LLAMA-2-Chat-ITSM','LLAMA-2-Chat-Regular','LLAMA-3-Chat-ITSM','LLAMA-3-Chat-Regular']:
         match model:
             case 'LLAMA-2-Chat-ITSM':
                 body['character'] = "Pinky"
