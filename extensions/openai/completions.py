@@ -283,7 +283,7 @@ def chat_completions_common(body: dict, is_legacy: bool = False, stream=False) -
                 body['instruction_template'] = "Llama-v3"
                 generate_params['max_new_tokens'] = 10
                 generate_params['auto_max_new_tokens'] = False
-                body['preset'] = "simple-1"
+                body['preset'] = "LLaMA-Precise"
 
 
     else:
