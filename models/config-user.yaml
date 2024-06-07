@@ -50,7 +50,7 @@ meta-llama_meta-llama-3-70b-instruct$:
   cpu: false
   bf16: false
   load_in_8bit: false
-  trust_remote_code: false
+  trust_remote_code: true
   no_use_fast: false
   use_flash_attention_2: false
   load_in_4bit: true
