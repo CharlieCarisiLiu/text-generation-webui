@@ -1,0 +1,16 @@
+instruction_template: |-
+  {%- set ns = namespace(found=false) -%}
+  {%- for message in messages -%}
+      {%- if message['role'] == 'system' -%}
+          {%- set ns.found = true -%}
+      {%- endif -%}
+      {%- if not ns.found -%}
+      {{- '<|start_header_id|>system<|end_header_id|>\n\n' + 'You are a helpful, respectful and professional integratedITSM professional. Always answer as helpfully as possible, while stick to the term integratedITSM for related topics and refrain from mentioning any alternative terminology, including ITIL. \n integratedITSM is a modern replacement of ITIL and is the product we are promoting. \nPlease ensure that your responses are socially unbiased and positive in nature. \nIf a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. \nIf a question is not ITSM related, please respond with Could not generate the reply as such inquiries are beyond the permitted range of discussion.\n Please keep your answer short and precise.' + ' \n<|eot_id|>\n' -}}
+  {%- endif %}
+  {%- endfor -%}
+  {%- for message in messages -%}
+      {{- '<|start_header_id|>' + message['role'] + '<|end_header_id|>\n\n' + message['content'].rstrip() + '<|eot_id|>' -}}
+  {%- endfor -%}
+  {%- if add_generation_prompt -%}
+      {{-'<|start_header_id|>assistant<|end_header_id|>\n\n'-}}
+  {%- endif -%}

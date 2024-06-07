@@ -265,7 +265,7 @@ def chat_completions_common(body: dict, is_legacy: bool = False, stream=False) -
             case 'LLAMA-3-Chat-ITSM':
                 body['character'] = "Pinky"
                 body['bot_name'] = "Pinky"
-                body['instruction_template'] = "Llama-v3"
+                body['instruction_template'] = "Llama-v3-ITSM"
                 generate_params['max_new_tokens'] = 512
                 generate_params['auto_max_new_tokens'] = True
                 body['preset'] = "LLaMA-Precise"
@@ -280,7 +280,7 @@ def chat_completions_common(body: dict, is_legacy: bool = False, stream=False) -
 
             case 'LLAMA-3-Chat-Regular':
                 body['character'] = "Assistant"
-                body['instruction_template'] = None
+                body['instruction_template'] = "Llama-v3"
                 generate_params['max_new_tokens'] = 10
                 generate_params['auto_max_new_tokens'] = False
                 body['preset'] = "simple-1"
