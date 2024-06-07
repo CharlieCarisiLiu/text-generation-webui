@@ -42,7 +42,7 @@ meta-llama_Llama-2-70b-chat-hf$:
   rope_freq_base: 0
   gpu_memory_0: 0
   instruction_template: ITSM-LLAMA-RAG
-meta-llama_Llama-3-70b-instruct$:
+meta-llama_meta-llama-3-70b-instruct$:
   loader: Transformers
   cpu_memory: 0
   auto_devices: true
