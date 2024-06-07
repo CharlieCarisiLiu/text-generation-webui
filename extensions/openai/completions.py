@@ -279,7 +279,7 @@ def chat_completions_common(body: dict, is_legacy: bool = False, stream=False) -
                 #preset = load_preset_memoized("LLaMA-Precise")
 
             case 'LLAMA-3-Chat-Regular':
-                body['character'] = "None"
+                body['character'] = "Assistant"
                 body['instruction_template'] = None
                 generate_params['max_new_tokens'] = 10
                 generate_params['auto_max_new_tokens'] = False
