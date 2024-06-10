@@ -31,6 +31,22 @@ EOF
 
 echo "Disk setup script installed and configured to run at every boot."
 
+cat << 'EOF' > /etc/systemd/system/pinky.service
+[Unit]
+Description=PINKY
+After=default.target
+
+[Service]
+ExecStart=/home/sysadmin/text-generation-webui/run.sh
+
+[Install]
+WantedBy=default.target
+EOF
+
+systemctl enable pinky
+
+apt install gpustat
+
 sudo -u sysadmin LAUNCH_AFTER_INSTALL=N GPU_CHOICE=NVIDIA USE_CUDA118=N ./start_linux.sh
 
 echo "Done! Rebooting"
