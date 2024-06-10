@@ -16,6 +16,7 @@ if [ -b /dev/nvme0n1 ]; then
     # Create mount point and mount the disk
     mkdir -p /datadisk
     mount /dev/nvme0n1p1 /datadisk
+    chown -R sysadmin:sysadmin /datadisk
 fi
 EOF
 
