@@ -251,7 +251,7 @@ def chat_completions_common(body: dict, is_legacy: bool = False, stream=False) -
 
     #Check user picked model
     model = generate_params['model']
-    if model in ['LLAMA-2-Chat-ITSM','LLAMA-2-Chat-Regular','LLAMA-3-Chat-ITSM','LLAMA-3-Chat-Regular']:
+    if model in ['LLAMA-2-Chat-ITSM','LLAMA-2-Chat-Regular','LLAMA-3-Chat-ITSM','LLAMA-3-Chat-Regular','QWEN-2-ITSM','QWEN-2-Regular']:
         match model:
             case 'LLAMA-2-Chat-ITSM':
                 body['character'] = "Pinky"
@@ -282,7 +282,22 @@ def chat_completions_common(body: dict, is_legacy: bool = False, stream=False) -
                 body['character'] = "Assistant"
                 body['instruction_template'] = "Llama-v3"
                 generate_params['max_new_tokens'] = 128
-                generate_params['auto_max_new_tokens'] = False
+                generate_params['auto_max_new_tokens'] = True
+                body['preset'] = "LLaMA-Precise"
+
+            case 'QWEN-2-Regular':
+                body['character'] = "Assistant"
+                body['instruction_template'] = None
+                generate_params['max_new_tokens'] = 128
+                generate_params['auto_max_new_tokens'] = True
+                body['preset'] = "LLaMA-Precise"
+
+            case 'QWEN-2-ITSM':
+                body['character'] = "Assistant"
+                body['bot_name'] = "Pinky"
+                body['instruction_template'] = None
+                generate_params['max_new_tokens'] = 128
+                generate_params['auto_max_new_tokens'] = True
                 body['preset'] = "LLaMA-Precise"
 
 

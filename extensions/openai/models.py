@@ -33,7 +33,7 @@ def list_dummy_models():
     }
 
     # these are expected by so much, so include some here as a dummy
-    for model in ['LLAMA-2-Chat-ITSM','LLAMA-2-Chat-Regular','LLAMA-3-Chat-ITSM','LLAMA-3-Chat-Regular']:
+    for model in ['LLAMA-2-Chat-ITSM','LLAMA-2-Chat-Regular','LLAMA-3-Chat-ITSM','LLAMA-3-Chat-Regular','QWEN-2-ITSM','QWEN-2-Regular']:
         result["data"].append(model_info_dict(model))
 
     return result
