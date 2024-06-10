@@ -45,7 +45,7 @@ EOF
 
 systemctl enable pinky
 
-apt install gpustat
+apt install -y gpustat
 
 sudo -u sysadmin LAUNCH_AFTER_INSTALL=N GPU_CHOICE=A USE_CUDA118=N ./start_linux.sh
 
