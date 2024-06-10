@@ -31,4 +31,8 @@ EOF
 
 echo "Disk setup script installed and configured to run at every boot."
 
-LAUNCH_AFTER_INSTALL=N GPU_CHOICE=NVIDIA USE_CUDA118=N ./start_linux.sh
+sudo -u sysadmin LAUNCH_AFTER_INSTALL=N GPU_CHOICE=NVIDIA USE_CUDA118=N ./start_linux.sh
+
+echo "Done! Rebooting"
+
+reboot now
