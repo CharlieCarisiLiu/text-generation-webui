@@ -1,5 +1,5 @@
 #!/bin/bash
-mkdie /datadisk
+mkdir /datadisk
 chown -R sysadmin:sysadmin /datadisk
 # Create the setup-disk.sh script
 cat << 'EOF' > /var/lib/cloud/scripts/per-boot/setup-disk.sh
