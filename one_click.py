@@ -316,6 +316,7 @@ def install_webui():
 
     # Install the webui requirements
     update_requirements(initial_installation=True)
+    run_cmd(f"python -m spacy download en", assert_success=False, environment=True)
 
 
 def get_extensions_names():
