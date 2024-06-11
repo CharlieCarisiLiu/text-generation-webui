@@ -36,6 +36,8 @@ def _should_query(input: str, state: dict):
                 return True
             elif state['instruction_template'] == 'Llama-v3-ITSM':
                 return True
+            elif state['name2'] == 'Pinky':
+                return True
             else:
                 return False
         else:

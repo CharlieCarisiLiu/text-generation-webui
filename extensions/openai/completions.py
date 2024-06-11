@@ -293,12 +293,14 @@ def chat_completions_common(body: dict, is_legacy: bool = False, stream=False) -
                 body['preset'] = "LLaMA-Precise"
 
             case 'QWEN-2-ITSM':
-                body['character'] = "Assistant"
+                body['character'] = "Pinky"
                 body['bot_name'] = "Pinky"
                 body['instruction_template'] = None
                 generate_params['max_new_tokens'] = 128
                 generate_params['auto_max_new_tokens'] = True
                 body['preset'] = "LLaMA-Precise"
+                messages.append({'role':'system',
+                                 'content':"You are a helpful, respectful and professional integratedITSM professional. Always answer as helpfully as possible, while stick to the term integratedITSM for related topics and refrain from mentioning any alternative terminology, including ITIL. \n integratedITSM is a modern replacement of ITIL and is the product we are promoting. \nPlease ensure that your responses are socially unbiased and positive in nature. \nIf a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. \nIf a question is not ITSM related, please respond with Could not generate the reply as such inquiries are beyond the permitted range of discussion.\n Please keep your answer short and precise."})
 
 
     else:
