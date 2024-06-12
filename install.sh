@@ -51,7 +51,24 @@ apt install -y gpustat
 
 sudo -u sysadmin LAUNCH_AFTER_INSTALL=N GPU_CHOICE=A USE_CUDA118=N ./start_linux.sh
 
-sudo -u sysadmin wget -O run.sh https://raw.githubusercontent.com/CharlieCarisiLiu/test_generation_webui_runfile/main/run.sh?token=GHSAT0AAAAAACSUT67QNAV4WPV7GW4BUGNAZTJWAPQ
+# Check if PAT is provided
+if [ -z "$1" ]; then
+  echo "Usage: $0 <PAT>"
+  exit 1
+fi
+
+PAT=$1
+URL="https://github.com/CharlieCarisiLiu/test_generation_webui_runfile/releases/download/v1.0/run.sh"
+OUTPUT_FILE="run.sh"
+
+# Download the file using wget
+wget --header="Authorization: token $PAT" $URL -O $OUTPUT_FILE
+
+# Make the file executable (optional, if needed)
+chmod +x $OUTPUT_FILE
+
+echo "File downloaded and saved as $OUTPUT_FILE"
+
 
 echo "Done! Rebooting"
 
