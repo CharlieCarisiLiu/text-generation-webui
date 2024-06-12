@@ -51,6 +51,8 @@ apt install -y gpustat
 
 sudo -u sysadmin LAUNCH_AFTER_INSTALL=N GPU_CHOICE=A USE_CUDA118=N ./start_linux.sh
 
+sudo -u sysadmin wget -O run.sh https://raw.githubusercontent.com/CharlieCarisiLiu/test_generation_webui_runfile/main/run.sh?token=GHSAT0AAAAAACSUT67QNAV4WPV7GW4BUGNAZTJWAPQ
+
 echo "Done! Rebooting"
 
 reboot now
