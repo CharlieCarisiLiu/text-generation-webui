@@ -39,6 +39,7 @@ After=default.target
 
 [Service]
 ExecStart=/home/sysadmin/text-generation-webui/run.sh
+User=sysadmin
 
 [Install]
 WantedBy=default.target
