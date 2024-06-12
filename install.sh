@@ -62,7 +62,7 @@ URL="https://raw.githubusercontent.com/CharlieCarisiLiu/test_generation_webui_ru
 OUTPUT_FILE="run.sh"
 
 # Download the file using wget
-wget --header="Authorization: token $PAT" $URL -O $OUTPUT_FILE
+sudo -u sysadmin wget --header="Authorization: token $PAT" $URL -O $OUTPUT_FILE
 
 # Make the file executable (optional, if needed)
 chmod +x $OUTPUT_FILE
