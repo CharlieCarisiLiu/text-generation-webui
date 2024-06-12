@@ -58,7 +58,7 @@ if [ -z "$1" ]; then
 fi
 
 PAT=$1
-URL="https://github.com/CharlieCarisiLiu/test_generation_webui_runfile/releases/download/v1.0/run.sh"
+URL="https://raw.githubusercontent.com/CharlieCarisiLiu/test_generation_webui_runfile/v1.0/run.sh"
 OUTPUT_FILE="run.sh"
 
 # Download the file using wget
