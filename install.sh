@@ -49,8 +49,6 @@ systemctl enable pinky
 
 apt install -y gpustat
 
-sudo -u sysadmin LAUNCH_AFTER_INSTALL=N GPU_CHOICE=A USE_CUDA118=N ./start_linux.sh
-
 # Check if PAT is provided
 if [ -z "$1" ]; then
   echo "Usage: $0 <PAT>"
@@ -69,6 +67,7 @@ chmod +x $OUTPUT_FILE
 
 echo "File downloaded and saved as $OUTPUT_FILE"
 
+sudo -u sysadmin LAUNCH_AFTER_INSTALL=N GPU_CHOICE=A USE_CUDA118=N ./start_linux.sh
 
 echo "Done! Rebooting"
 
